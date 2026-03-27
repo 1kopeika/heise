@@ -1,17 +1,17 @@
-﻿# Gesamtstatistik: Kommentatoren Ã¼ber alle drei Heise-Threads
+﻿# Gesamtstatistik: Kommentatoren über alle drei Heise-Threads
 
-Ausgewertet wurden 758 BeitrÃ¤ge aus drei Threads von insgesamt 284 eindeutigen Kommentatoren.
+Ausgewertet wurden 758 Beiträge aus drei Threads von insgesamt 284 eindeutigen Kommentatoren.
 
 ## Kerndaten
 
-- BeitrÃ¤ge insgesamt: 758
+- Beiträge insgesamt: 758
 - Eindeutige Kommentatoren insgesamt: 284
 - Kommentatoren in mindestens zwei Threads: 20
 - Kommentatoren in allen drei Threads: 2
 
-## Top-Kommentatoren Ã¼ber alle drei Threads
+## Top-Kommentatoren über alle drei Threads
 
-| Rang | Kommentator | BeitrÃ¤ge gesamt | Threads | TankE 2026 | KÃ¶ln 2023 | Serie 2025 | positiv | neutral | negativ | Avg. Bewertung |
+| Rang | Kommentator | Beiträge gesamt | Threads | TankE 2026 | Köln 2023 | Serie 2025 | positiv | neutral | negativ | Avg. Bewertung |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | unbekannter Benutzer | 33 | 2 | 0 | 27 | 6 | 5 | 20 | 8 | 13,5 |
 | 2 | bitkobold | 26 | 1 | 0 | 26 | 0 | 1 | 12 | 13 | -14,3 |
@@ -21,7 +21,7 @@ Ausgewertet wurden 758 BeitrÃ¤ge aus drei Threads von insgesamt 284 eindeutige
 | 6 | Farnsworth | 14 | 2 | 13 | 1 | 0 | 1 | 11 | 2 | 32,5 |
 | 7 | Deep Thinking | 14 | 1 | 0 | 14 | 0 | 2 | 11 | 1 |  |
 | 8 | aLDo | 11 | 1 | 0 | 11 | 0 | 0 | 4 | 7 |  |
-| 9 | Dr. Goebel | 9 | 1 | 0 | 9 | 0 | 0 | 5 | 4 | 10,0 |
+| 9 | Dr. G?bel | 9 | 1 | 0 | 9 | 0 | 0 | 5 | 4 | 10,0 |
 | 10 | H005 | 9 | 1 | 9 | 0 | 0 | 0 | 5 | 4 | 35,0 |
 | 11 | Wo ist der Bus... | 8 | 3 | 2 | 4 | 2 | 1 | 5 | 2 | 20,0 |
 | 12 | Christian Stieber | 8 | 2 | 0 | 5 | 3 | 5 | 3 | 0 | 42,5 |
@@ -41,7 +41,7 @@ Ausgewertet wurden 758 BeitrÃ¤ge aus drei Threads von insgesamt 284 eindeutige
 
 ## Kommentatoren in mehreren Threads
 
-| Rang | Kommentator | BeitrÃ¤ge gesamt | Threads | TankE 2026 | KÃ¶ln 2023 | Serie 2025 |
+| Rang | Kommentator | Beiträge gesamt | Threads | TankE 2026 | Köln 2023 | Serie 2025 |
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
 | 1 | unbekannter Benutzer | 33 | 2 | 0 | 27 | 6 |
 | 2 | 23 | 19 | 2 | 5 | 14 | 0 |
@@ -61,11 +61,11 @@ Ausgewertet wurden 758 BeitrÃ¤ge aus drei Threads von insgesamt 284 eindeutige
 | 16 | Rolf Keller | 3 | 2 | 1 | 2 | 0 |
 | 17 | Romiman | 3 | 2 | 0 | 2 | 1 |
 | 18 | Timothy_Truckle | 3 | 2 | 0 | 2 | 1 |
-| 19 | Haenk | 2 | 2 | 0 | 1 | 1 |
+| 19 | H?nk | 2 | 2 | 0 | 1 | 1 |
 | 20 | Kreuzfahrer | 2 | 2 | 0 | 1 | 1 |
 
 ## Hinweise
 
 - Die Zuordnung erfolgt nach exakt sichtbarem Foren-Namen im jeweiligen Thread.
-- Namensvarianten oder unterschiedliche Konten wurden nicht zusammengefuehrt.
-- Positive, neutrale und negative BeitrÃ¤ge basieren wie zuvor auf einer heuristischen Einordnung.
+- Namensvarianten oder unterschiedliche Konten wurden nicht zusammengeführt.
+- Positive, neutrale und negative Beiträge basieren wie zuvor auf einer heuristischen Einordnung.
