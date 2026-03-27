@@ -1,3 +1,45 @@
+<#
+.SYNOPSIS
+Analysiert einen Heise-Forenthread zu Ladebordsteinen und erzeugt getrennte Berichte sowie JSON-Ausgaben.
+
+.DESCRIPTION
+Das Skript ruft die Seiten eines Heise-Forenthreads ab, ermittelt alle Root-Threads, lädt pro Root-Thread
+die vollständige Thread-Ansicht, sammelt daraus alle Posting-URLs und cached die einzelnen Posting-Seiten lokal.
+Anschließend werden die Beiträge geparst, thematisch klassifiziert und in mehreren Ausgabeformaten gespeichert.
+
+Die Ausgaben werden pro Forum getrennt und mit Datum sowie Threadnamen benannt. Dazu gehören unter anderem:
+- vollständige Kommentar-JSONs
+- thematische Summaries
+- Autorenstatistiken
+- Markdown-Vollberichte und Endfassungen
+
+Mit -SkipFetch kann eine bestehende lokale Cache-Struktur erneut ausgewertet werden, ohne die Heise-Seiten neu
+abzurufen. Das Skript ist auf die Struktur von Heise-Foren im Bereich "heise-online/Kommentare" zugeschnitten.
+
+.PARAMETER WorkDir
+Arbeitsverzeichnis, in dem Cache-Dateien sowie die erzeugten JSON- und Markdown-Berichte liegen sollen.
+
+.PARAMETER ForumUrl
+Heise-Forum-URL des auszuwertenden Threads, zum Beispiel:
+https://www.heise.de/forum/heise-online/Kommentare/.../forum-123456/comment/
+
+.PARAMETER SkipFetch
+Verwendet nur bereits vorhandene lokale Cache-Dateien und führt ausschließlich die Auswertung erneut aus.
+
+.PARAMETER OnlyAuthors
+Überspringt das Nachladen einzelner Posting-Seiten. Dieser Schalter ist nur für Sonderfälle gedacht und
+kann zu unvollständigen Ergebnissen führen, wenn benötigte Postings noch nicht im Cache liegen.
+
+.EXAMPLE
+.\heise_forum_curbcharger_analyse.ps1 -ForumUrl "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/forum-519185/comment/"
+
+Lädt den angegebenen Heise-Thread, baut den lokalen Cache auf und erzeugt die zugehörigen JSON- und Markdown-Berichte.
+
+.EXAMPLE
+.\heise_forum_curbcharger_analyse.ps1 -ForumUrl "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/forum-519185/comment/" -SkipFetch
+
+Verwendet nur bereits vorhandene Cache-Dateien und berechnet die Auswertung für den Thread erneut.
+#>
 param(
     [string]$WorkDir = ".",
     [string]$ForumUrl = "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/forum-579336/comment/",
