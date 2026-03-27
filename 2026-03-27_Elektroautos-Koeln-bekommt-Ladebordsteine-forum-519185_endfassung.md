@@ -27,7 +27,7 @@ Ein sehr großer Block diskutiert, ob langsames Laden am Straßenrand städtisch
 Markante Kommentare:
 - `16.05.2023`, `dat70`, `"bis zu 22 kW" falscher Ansatz`: kritisiert explizit, dass Innenstadtraum nicht für stundenlang ladende Fahrzeuge gebunden werden sollte. Das ist einer der Schluesselbeiträge des Threads.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/bis-zu-22-kW-falscher-Ansatz/posting-42639636/show/
-- `16.05.2023`, `Johannes St?ttgen`, `Re: "bis zu 22 kW" falscher Ansatz`: setzt dagegen, dass genau dieser Fall in dicht bebauten Quartieren ohne private Stellplätze relevant sei. Hier wird der Bordstein als Übernacht-Ladepunkt für Anwohner verteidigt.  
+- `16.05.2023`, `Johannes Stüttgen`, `Re: "bis zu 22 kW" falscher Ansatz`: setzt dagegen, dass genau dieser Fall in dicht bebauten Quartieren ohne private Stellplätze relevant sei. Hier wird der Bordstein als Übernacht-Ladepunkt für Anwohner verteidigt.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639722/show/
 - `16.05.2023`, `Re: Ich finde gut....`: hält die Bordsteinidee für offensichtlichen Murks und argumentiert, dass man zum Start auch eine weniger fehleranfällige Lösung hätte wählen können.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Ich-finde-gut/posting-42639736/show/

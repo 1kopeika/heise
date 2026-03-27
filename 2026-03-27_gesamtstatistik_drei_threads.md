@@ -21,7 +21,7 @@ Ausgewertet wurden 758 Beiträge aus drei Threads von insgesamt 284 eindeutigen 
 | 6 | Farnsworth | 14 | 2 | 13 | 1 | 0 | 1 | 11 | 2 | 32,5 |
 | 7 | Deep Thinking | 14 | 1 | 0 | 14 | 0 | 2 | 11 | 1 |  |
 | 8 | aLDo | 11 | 1 | 0 | 11 | 0 | 0 | 4 | 7 |  |
-| 9 | Dr. G?bel | 9 | 1 | 0 | 9 | 0 | 0 | 5 | 4 | 10,0 |
+| 9 | Dr. Göbel | 9 | 1 | 0 | 9 | 0 | 0 | 5 | 4 | 10,0 |
 | 10 | H005 | 9 | 1 | 9 | 0 | 0 | 0 | 5 | 4 | 35,0 |
 | 11 | Wo ist der Bus... | 8 | 3 | 2 | 4 | 2 | 1 | 5 | 2 | 20,0 |
 | 12 | Christian Stieber | 8 | 2 | 0 | 5 | 3 | 5 | 3 | 0 | 42,5 |
@@ -61,7 +61,7 @@ Ausgewertet wurden 758 Beiträge aus drei Threads von insgesamt 284 eindeutigen 
 | 16 | Rolf Keller | 3 | 2 | 1 | 2 | 0 |
 | 17 | Romiman | 3 | 2 | 0 | 2 | 1 |
 | 18 | Timothy_Truckle | 3 | 2 | 0 | 2 | 1 |
-| 19 | H?nk | 2 | 2 | 0 | 1 | 1 |
+| 19 | Hänk | 2 | 2 | 0 | 1 | 1 |
 | 20 | Kreuzfahrer | 2 | 2 | 0 | 1 | 1 |
 
 ## Hinweise

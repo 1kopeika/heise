@@ -15,10 +15,10 @@ Markante Kommentare:
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Sauberkeit-und-Bequemlichkeit/posting-45180475/show/
 - `13.05.2025`, `O/4`, `Robustheit bei Überfahren, Kollision und Starkregen`: verschiebt die Debatte auf technische Belastbarkeit und macht deutlich, dass viele Nutzer jetzt belastbare Aussagen zur Serienreife erwarten.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Robustheit-bei-Ueberfahren-Kollision-und-Starkregen/posting-45180511/show/
-- `13.05.2025`, `Kewin-J?ll`, `Re: benötigt keine Poller...`: verteidigt das Konzept unter Verweis auf die Testphase und argumentiert, dass die Überschrift bei echten Serienproblemen anders ausgefallen wäre.  
+- `13.05.2025`, `Kewin-Jöll`, `Re: benötigt keine Poller...`: verteidigt das Konzept unter Verweis auf die Testphase und argumentiert, dass die Überschrift bei echten Serienproblemen anders ausgefallen wäre.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180485/show/
 
-Einordnung: Die Testjahres-Meldung nimmt der Robustheitsdebatte nicht die Sch?rfe, verschiebt sie aber von Vermutungen hin zu Vertrauensfragen gegenüber den berichteten Praxiserfahrungen.
+Einordnung: Die Testjahres-Meldung nimmt der Robustheitsdebatte nicht die Schärfe, verschiebt sie aber von Vermutungen hin zu Vertrauensfragen gegenüber den berichteten Praxiserfahrungen.
 
 ## 2. Parken, Bordstein und Gehweg
 
@@ -53,7 +53,7 @@ Einordnung: Komfort bleibt ein echter Schwachpunkt der Wahrnehmung, auch dann, w
 Im dritten Thread wird die Marke Rheinmetall erneut sichtbar mitdiskutiert, aber noch wichtiger ist hier der rhetorische Hebel "erfolgreiches Testjahr". Manche Kommentierende lesen daraus belastbare Praxistauglichkeit, andere finden, dass ein Serienstart die bekannten konzeptionellen Zweifel nicht ausräumt.
 
 Markante Kommentare:
-- `13.05.2025`, `Kewin-J?ll`, `Re: benötigt keine Poller...`: nutzt die Formulierung des Artikels selbst als Gegenargument gegen grundsätzliche Zweifel.  
+- `13.05.2025`, `Kewin-Jöll`, `Re: benötigt keine Poller...`: nutzt die Formulierung des Artikels selbst als Gegenargument gegen grundsätzliche Zweifel.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180485/show/
 - `13.05.2025`, `will auch mal posten`, `benötigt keine Poller...`: bleibt trotz Serienmeldung skeptisch und liest die Herstellerdarstellung eher als Marketingversprechen denn als Beweis.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180437/show/

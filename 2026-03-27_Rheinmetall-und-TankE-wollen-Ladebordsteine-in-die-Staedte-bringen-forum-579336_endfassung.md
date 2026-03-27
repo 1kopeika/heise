@@ -25,7 +25,7 @@ Einordnung: Das Forum diskutiert den Ladebordstein hier weniger als Ladetechnik,
 Der zweite Hauptblock ist die körperliche Nutzung. Viele Beiträge stören sich daran, dass zum Einstecken gebückt, am Boden hantiert und im Zweifel bei Regen oder Dreck in Bodennähe gearbeitet werden muss. Gerade für ältere oder weniger bewegliche Nutzer wird das als deutliche Hürde gelesen.
 
 Markante Kommentare:
-- `17.03.2026`, `peter-pano`, `Keine gute Idee`: nennt den Ladebordstein ausdr?cklich unbequem erreichbar und alltagsfern. Der Kommentar ist wichtig, weil er die Gesamtskepsis sehr klar auf eine einfache Nutzererfahrung herunterbricht.  
+- `17.03.2026`, `peter-pano`, `Keine gute Idee`: nennt den Ladebordstein ausdrücklich unbequem erreichbar und alltagsfern. Der Kommentar ist wichtig, weil er die Gesamtskepsis sehr klar auf eine einfache Nutzererfahrung herunterbricht.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Keine-gute-Idee/posting-46092398/show/
 - `17.03.2026`, `letztermo`, `Re: Interessante Idee`: widerspricht einem Teil der Schmutz- und Bodennähe-Kritik und argumentiert, dass viele Einwände seltene Ausnahmesituationen aufblasen.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Interessante-Idee/posting-46092432/show/
@@ -36,7 +36,7 @@ Einordnung: Die Frage lautet für viele nicht, ob der Anschluss technisch funkti
 
 ## 3. Wetter, Schmutz und Robustheit
 
-Regen, Schnee, Eis, Dreck, Hundekot, Streusalz und Beschmierung sind im Thread fast durchgehend präsent. Gerade weil der Anschluss in unmittelbarer Bodennähe sitzt, wird seine Widerstandsf?higkeit gegen den rauen Straßenalltag massiv bezweifelt.
+Regen, Schnee, Eis, Dreck, Hundekot, Streusalz und Beschmierung sind im Thread fast durchgehend präsent. Gerade weil der Anschluss in unmittelbarer Bodennähe sitzt, wird seine Widerstandsfähigkeit gegen den rauen Straßenalltag massiv bezweifelt.
 
 Markante Kommentare:
 - `17.03.2026`, `INB`, `Interessante Idee`: formuliert die Sorge, dass der Ladepunkt in Grossstädten schnell verschmutzt oder missbraucht werden könnte. Zugleich lässt der Kommentar offen, dass das Konzept in abgegrenzten Bereichen funktionieren könnte.  
@@ -71,7 +71,7 @@ Markante Kommentare:
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Interessante-Idee/posting-46092432/show/
 - `17.03.2026`, `Re: Am Bordstein`: argumentiert technischer und verteidigt das System gegen Einwände zu Wasserablauf, Befahrbarkeit und austauschbaren Modulen.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Am-Bordstein/posting-46092964/show/
-- `17.03.2026`, `Re: Warum eigentlich ein Bordstein?`: verweist auf schmale Ladesäulen in den Niederlanden und macht damit sichtbar, dass der Thread st?ndig konkrete Alternativen zum Bordstein mitdenkt.  
+- `17.03.2026`, `Re: Warum eigentlich ein Bordstein?`: verweist auf schmale Ladesäulen in den Niederlanden und macht damit sichtbar, dass der Thread ständig konkrete Alternativen zum Bordstein mitdenkt.  
   Quelle: https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Warum-eigentlich-ein-Bordstein/posting-46093989/show/
 
 Einordnung: Der Thread bewertet den Ladebordstein selten isoliert. Fast immer steht er im Vergleich mit anderen denkbaren Bauformen.

@@ -62,7 +62,7 @@ Kurzfazit: Deutlich negativ bei 163 Beiträgen.
 
 ## 4. Grundsatzdebatte EAuto und Verkehrswende
 
-Ein Teil des Threads löst sich vom konkreten Produkt und wechselt in die breitere Debatte über Elektromobilit?t, Ladeformen und urbane Infrastruktur.
+Ein Teil des Threads löst sich vom konkreten Produkt und wechselt in die breitere Debatte über Elektromobilität, Ladeformen und urbane Infrastruktur.
 
 Häufige Begriffe: sind, sich, schrieb, auto, muss, laden, ladesäulen, kabel
 

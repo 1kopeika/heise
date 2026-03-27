@@ -101,7 +101,7 @@ Kurzfazit: Eher gegen ladebordsteine bei 30 Beiträgen.
 
 ## 7. Grundsatzdebatte EAuto und Verkehrswende
 
-Ein Teil des Threads löst sich vom konkreten Produkt und wechselt in die breitere Debatte über Elektromobilit?t, Ladeformen und urbane Infrastruktur.
+Ein Teil des Threads löst sich vom konkreten Produkt und wechselt in die breitere Debatte über Elektromobilität, Ladeformen und urbane Infrastruktur.
 
 Häufige Begriffe: sind, schrieb, hier, auto, geht, schnee, sondern, rheinmetall
 

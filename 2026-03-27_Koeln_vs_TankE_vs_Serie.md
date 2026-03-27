@@ -26,7 +26,7 @@ Die Debatte bleibt über alle drei Jahre hinweg skeptisch, verschiebt aber ihren
 
 - Bedienung in Bodennähe wird durchgehend als unpraktisch wahrgenommen.
 - Schmutz, Regen, Schnee, Eis und allgemeiner Straßenbetrieb gelten als Hauptbelastung für das Konzept.
-- Der reale Parkalltag am Bordstein wird als schwieriger als jede Produktdemo eingesch?tzt.
+- Der reale Parkalltag am Bordstein wird als schwieriger als jede Produktdemo eingeschätzt.
 - Viele Kommentierende akzeptieren den Bedarf an urbanem Laden, aber nicht automatisch diese konkrete Bauform.
 
 Konstant ist also nicht die Ablehnung von Ladeinfrastruktur, sondern die Skepsis gegenüber dem Bordstein als Schnittstelle.
@@ -39,7 +39,7 @@ Charakteristisch:
 
 - stärkstes Thema ist Ergonomie
 - sehr starke Ausweitung auf Stadtverkehr, Parkraum und Mobilitätspolitik
-- viele Alternativvorschl?ge wie Ladesäulen, Ladeparks oder andere sichtbare Systeme
+- viele Alternativvorschläge wie Ladesäulen, Ladeparks oder andere sichtbare Systeme
 - Zustimmung meist nur als "interessant, aber bitte anders und besser"
 
 Der Köln-Thread ist damit die Phase der konzeptionellen Grundsatzkritik.
@@ -55,7 +55,7 @@ Charakteristisch:
 - trotzdem bleiben Komfort-, Gehweg- und Parkfragen fast unverändert bestehen
 - Diskussion wird konkreter: Poller, Abstand, Einbauorte, Starkregen, Überfahren
 
-Der Serien-Thread ist also die Phase der Plausibilit?tspr?fung: "Wenn es getestet wurde, was bleibt dann noch als ernsthafte Kritik übrig?"
+Der Serien-Thread ist also die Phase der Plausibilitätsprüfung: "Wenn es getestet wurde, was bleibt dann noch als ernsthafte Kritik übrig?"
 
 ## 4. Was prägt den TankE/Rheinmetall-Thread 2026?
 
@@ -86,7 +86,7 @@ Der 2026er Thread ist damit die Phase der öffentlichen Einordnung: weniger rein
 Einordnung:
 
 - `2023` ist am stärksten von Grundsatz- und Systemdebatten geprägt.
-- `2025` ist der kompakteste Thread und fokussiert auf die Frage, ob ein Testjahr die Kernkritik wirklich entkr?ftet.
+- `2025` ist der kompakteste Thread und fokussiert auf die Frage, ob ein Testjahr die Kernkritik wirklich entkräftet.
 - `2026` verbindet wieder breite Alltagskritik mit stärkerer Symbolik rund um Rheinmetall und urbanen Einbau.
 
 ## 6. Wie verändert sich der Ton?
@@ -101,7 +101,7 @@ Mit anderen Worten: Die Debatte wandert von grundsätzlicher Ablehnung über pr�
 
 ## 7. Gemeinsame Schlussfolgerung
 
-Alle drei Threads zusammen zeigen ein erstaunlich stabiles Muster. Der Bedarf an Ladeinfrastruktur für Menschen ohne private Wallbox wird kaum bestritten. Die eigentliche Streitfrage ist, ob ein bodennaher Ladepunkt am Bordstein dafür die richtige Mensch-Maschine-Schnittstelle ist. Je weiter das Konzept Richtung Test und Serie geht, desto weniger wird über das abstrakte "Ob" und desto mehr über Vertrauen, Wartungsrealit?t, Einbausituation und begrenzte sinnvolle Einsatzfelder gesprochen.
+Alle drei Threads zusammen zeigen ein erstaunlich stabiles Muster. Der Bedarf an Ladeinfrastruktur für Menschen ohne private Wallbox wird kaum bestritten. Die eigentliche Streitfrage ist, ob ein bodennaher Ladepunkt am Bordstein dafür die richtige Mensch-Maschine-Schnittstelle ist. Je weiter das Konzept Richtung Test und Serie geht, desto weniger wird über das abstrakte "Ob" und desto mehr über Vertrauen, Wartungsrealität, Einbausituation und begrenzte sinnvolle Einsatzfelder gesprochen.
 
 ## 8. Verdichtete Management-Aussage
 
