@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.tmp/
+heise_cache/
+*.zip
+*_post_fetch_list.json
+*_root_urls.json
+*_kurzfassung.txt
+*_themenbericht.md
+*_kommentatorenstatistik.md

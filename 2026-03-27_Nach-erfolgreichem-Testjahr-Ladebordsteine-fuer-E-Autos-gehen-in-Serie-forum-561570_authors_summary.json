@@ -1,0 +1,274 @@
+{
+  "comment_count": 122,
+  "author_count": 62,
+  "top_authors": [
+    {
+      "author": "MKoenig",
+      "posts": 6,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 6,
+      "avg_score": -0.12,
+      "avg_rating": 75.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "O/4",
+      "posts": 6,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 4,
+      "avg_score": -0.54,
+      "avg_rating": 88.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "unbekannter Benutzer",
+      "posts": 6,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 3,
+      "avg_score": -0.82,
+      "avg_rating": -11.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "der Ente",
+      "posts": 5,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 4,
+      "avg_score": -0.13,
+      "avg_rating": 0.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "iMil",
+      "posts": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": -0.12,
+      "avg_rating": 85.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "Stoff100",
+      "posts": 5,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 4,
+      "avg_score": -0.37,
+      "avg_rating": 77.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "DasMarco",
+      "posts": 4,
+      "positive": 0,
+      "negative": 4,
+      "neutral": 0,
+      "avg_score": -2.94,
+      "avg_rating": -60.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "melonenmonster",
+      "posts": 4,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 3,
+      "avg_score": -0.26,
+      "avg_rating": 6.7,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "RaspiFan",
+      "posts": 4,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 1,
+      "avg_score": -0.3,
+      "avg_rating": -33.3,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "will auch mal posten",
+      "posts": 4,
+      "positive": 0,
+      "negative": 3,
+      "neutral": 1,
+      "avg_score": -1.75,
+      "avg_rating": -72.3,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "Zappaesk",
+      "posts": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4,
+      "avg_score": -0.06,
+      "avg_rating": null,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "Christian Stieber",
+      "posts": 3,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.67,
+      "avg_rating": 20.0,
+      "overall_tenor": "eher positiv"
+    },
+    {
+      "author": "d.hesse",
+      "posts": 3,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 1,
+      "avg_score": -2.58,
+      "avg_rating": null,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "DerKoki",
+      "posts": 3,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.32,
+      "avg_rating": 20.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "MeierFranz",
+      "posts": 3,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.18,
+      "avg_rating": null,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "s.jaenicke",
+      "posts": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": -0.13,
+      "avg_rating": null,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "/Rak",
+      "posts": 2,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0,
+      "avg_score": -1.53,
+      "avg_rating": null,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "Aktendully",
+      "posts": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1,
+      "avg_score": 0.2,
+      "avg_rating": 30.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "Avarion",
+      "posts": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1,
+      "avg_score": 0.82,
+      "avg_rating": 50.0,
+      "overall_tenor": "eher positiv"
+    },
+    {
+      "author": "Bernd Paysan",
+      "posts": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": -0.22,
+      "avg_rating": null,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "OscarWild",
+      "posts": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.2,
+      "avg_rating": 100.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "RvdtG",
+      "posts": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": -0.17,
+      "avg_rating": null,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "Wenn_man_genau_darüber_nachdenkt",
+      "posts": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1,
+      "avg_score": -1.98,
+      "avg_rating": null,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "Wo ist der Bus...",
+      "posts": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1,
+      "avg_score": -0.47,
+      "avg_rating": 20.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "alexnoe",
+      "posts": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0,
+      "avg_score": 1.25,
+      "avg_rating": null,
+      "overall_tenor": "eher positiv"
+    }
+  ],
+  "distribution_by_posts": {
+    "1": 38,
+    "2": 8,
+    "3": 5,
+    "4": 5,
+    "5": 3,
+    "6": 3
+  },
+  "tenor_distribution_authors": {
+    "gemischt/neutral": 18,
+    "eher negativ": 27,
+    "eher positiv": 17
+  },
+  "tenor_distribution_posts": {
+    "negativ": 32,
+    "neutral": 73,
+    "positiv": 17
+  }
+}

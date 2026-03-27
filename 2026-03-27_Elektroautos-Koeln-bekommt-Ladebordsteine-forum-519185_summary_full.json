@@ -1,0 +1,612 @@
+{
+  "comment_count": 416,
+  "topic_counts": {
+    "Bedienung_und_Ergonomie": 216,
+    "Parken_Bordstein_Stadtbild": 163,
+    "Wetter_Schmutz_und_Robustheit": 163,
+    "Grundsatzdebatte_EAuto_und_Verkehrswende": 122,
+    "Alternativen_zur_Loesung": 88,
+    "Positive_Erfahrungen_und_Pilotprojekt": 65,
+    "Wirtschaft_Kosten_und_Skalierung": 63,
+    "Barrierefreiheit_und_Altersfragen": 48,
+    "Sonstiges": 44,
+    "Rheinmetall_und_Politik": 38,
+    "Vandalismus_Sabotage_und_Sicherheit": 34
+  },
+  "topics": {
+    "Bedienung_und_Ergonomie": {
+      "count": 216,
+      "common_terms": [
+        "sind",
+        "kabel",
+        "sich",
+        "schrieb",
+        "auto",
+        "sein",
+        "laden",
+        "gibt",
+        "muss",
+        "wäre",
+        "lösung",
+        "nach"
+      ],
+      "examples": [
+        {
+          "id": 42639601,
+          "title": "Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 15:55",
+          "snippet": "...auch wenn es auf den ersten Blick raffiniert erscheint. Im Sommer bei trockenem Wetter mag das ja noch halbwegs ok sein, wenn man nicht alters- oder anderweitig Bewegungsmäßi...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42639601/show/"
+        },
+        {
+          "id": 42639617,
+          "title": "Re: Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 15:58",
+          "snippet": "Das waren auch meine ersten Gedanken.  Den Pitch hätte ich gerne gehört als ein Ingenieur das in einer Runde von klugen Leuten vorgeschlagen hat und das alle für gut befunden ha...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42639617/show/"
+        },
+        {
+          "id": 42639636,
+          "title": "\"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:01",
+          "snippet": "Bei 22kw brauche ich mehrere Stunden zum \"Volltanken\". Es sollte aber nicht Ziel einer Stadt wie Kölln sein, teure Innenstadtlagen mit \"Dauerparkern\" zu belegen. In Wohnvierteln...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/bis-zu-22-kW-falscher-Ansatz/posting-42639636/show/"
+        },
+        {
+          "id": 42639669,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:08",
+          "snippet": "Bei Leuten die viel innerorts fahren reicht das völlig aus. Keiner steckt wegen 10 Minuten parken den Stecker rein. Bei etwas längeren Standzeiten von etwa einer Stunde reicht d...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639669/show/"
+        },
+        {
+          "id": 42639683,
+          "title": "Wasser, Regen, Schmutz, Bücken...?",
+          "datetime": "16.05.2023 16:10",
+          "snippet": "Sieht wieder mal nach Tunnelblick-Lösung aus: Da haben ein paar Leute was auf den ersten Blick praktisches ausgeheckt (keine Säule, baulich einfache Lösung), aber irgendwie völl...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Wasser-Regen-Schmutz-Buecken/posting-42639683/show/"
+        }
+      ]
+    },
+    "Wetter_Schmutz_und_Robustheit": {
+      "count": 163,
+      "common_terms": [
+        "sind",
+        "sich",
+        "schrieb",
+        "kabel",
+        "nach",
+        "gibt",
+        "sein",
+        "lösung",
+        "wieder",
+        "autos",
+        "immer",
+        "regen"
+      ],
+      "examples": [
+        {
+          "id": 42639601,
+          "title": "Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 15:55",
+          "snippet": "...auch wenn es auf den ersten Blick raffiniert erscheint. Im Sommer bei trockenem Wetter mag das ja noch halbwegs ok sein, wenn man nicht alters- oder anderweitig Bewegungsmäßi...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42639601/show/"
+        },
+        {
+          "id": 42639669,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:08",
+          "snippet": "Bei Leuten die viel innerorts fahren reicht das völlig aus. Keiner steckt wegen 10 Minuten parken den Stecker rein. Bei etwas längeren Standzeiten von etwa einer Stunde reicht d...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639669/show/"
+        },
+        {
+          "id": 42639683,
+          "title": "Wasser, Regen, Schmutz, Bücken...?",
+          "datetime": "16.05.2023 16:10",
+          "snippet": "Sieht wieder mal nach Tunnelblick-Lösung aus: Da haben ein paar Leute was auf den ersten Blick praktisches ausgeheckt (keine Säule, baulich einfache Lösung), aber irgendwie völl...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Wasser-Regen-Schmutz-Buecken/posting-42639683/show/"
+        },
+        {
+          "id": 42639686,
+          "title": "Re: \"Ladeparks mit Schnellladern\" falscher Ansatz",
+          "datetime": "16.05.2023 16:11",
+          "snippet": "Das ist doch der vollkommen falsche Weg.  Jetzt denke doch mal nach: - Am sinnvollsten ist es E-Autos bevorzugt mit erneuerbaren Energien zu tanken - Dabei das Stromnetz nicht z...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639686/show/"
+        },
+        {
+          "id": 42639704,
+          "title": "Ich finde gut....",
+          "datetime": "16.05.2023 16:14",
+          "snippet": "...das endlich mal jemand loslegt. Ob aus den Erfahrungen dann rauskommt, das der Stecker zu niedrig, im Winter alles vereist, der Rolly drüber stolpert usw., wird man nach eine...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Ich-finde-gut/posting-42639704/show/"
+        }
+      ]
+    },
+    "Vandalismus_Sabotage_und_Sicherheit": {
+      "count": 34,
+      "common_terms": [
+        "sind",
+        "kabel",
+        "schrieb",
+        "autos",
+        "sich",
+        "nach",
+        "sein",
+        "immer",
+        "gibt",
+        "bordstein",
+        "auto",
+        "wäre"
+      ],
+      "examples": [
+        {
+          "id": 42639601,
+          "title": "Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 15:55",
+          "snippet": "...auch wenn es auf den ersten Blick raffiniert erscheint. Im Sommer bei trockenem Wetter mag das ja noch halbwegs ok sein, wenn man nicht alters- oder anderweitig Bewegungsmäßi...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42639601/show/"
+        },
+        {
+          "id": 42639858,
+          "title": "Re: Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 16:38",
+          "snippet": "Sehe ich auch so.  Ein Poller mit Ladebuchse wäre sowohl ergonomischer als auch unempfindlicher gegen Verschmutzung und Beschädigung. Und  er hält außerdem noch die Falschparker...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42639858/show/"
+        },
+        {
+          "id": 42640003,
+          "title": "In der Stadt schwachsinnig",
+          "datetime": "16.05.2023 17:01",
+          "snippet": "Gerade hat die Stadt die Anwohnerparkgebühren um über 1000% erhöht. Offiziell, um die Stadt autofreier zu machen, inoffiziell trifft das wieder die ärmere Bevölkungensschichten:...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/In-der-Stadt-schwachsinnig/posting-42640003/show/"
+        },
+        {
+          "id": 42640043,
+          "title": "Re: Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 17:09",
+          "snippet": "Rumbledove schrieb am 16.05.2023 16:38:  Ein Poller mit Ladebuchse wäre sowohl ergonomischer   Eindeutig ja.  als auch unempfindlicher gegen Verschmutzung und Beschädigung.   Bi...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42640043/show/"
+        },
+        {
+          "id": 42640127,
+          "title": "Re: Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 17:23",
+          "snippet": "bitkobold schrieb am 16.05.2023 15:55:  ...auch wenn es auf den ersten Blick raffiniert erscheint. Im Sommer bei trockenem Wetter mag das ja noch halbwegs ok sein, wenn man nich...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42640127/show/"
+        }
+      ]
+    },
+    "Barrierefreiheit_und_Altersfragen": {
+      "count": 48,
+      "common_terms": [
+        "sich",
+        "sind",
+        "gegenüber",
+        "schrieb",
+        "behinderten",
+        "interessant",
+        "empathisch",
+        "gibt",
+        "sein",
+        "lösung",
+        "auto",
+        "ladesäulen"
+      ],
+      "examples": [
+        {
+          "id": 42639601,
+          "title": "Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 15:55",
+          "snippet": "...auch wenn es auf den ersten Blick raffiniert erscheint. Im Sommer bei trockenem Wetter mag das ja noch halbwegs ok sein, wenn man nicht alters- oder anderweitig Bewegungsmäßi...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42639601/show/"
+        },
+        {
+          "id": 42640127,
+          "title": "Re: Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 17:23",
+          "snippet": "bitkobold schrieb am 16.05.2023 15:55:  ...auch wenn es auf den ersten Blick raffiniert erscheint. Im Sommer bei trockenem Wetter mag das ja noch halbwegs ok sein, wenn man nich...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42640127/show/"
+        },
+        {
+          "id": 42640146,
+          "title": "Re: Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 17:26",
+          "snippet": "Ich habe damit kein Problem. Aber andere Körperbehinderte usw. vielleicht schon. Mal davon abgesehen erschließt sich mir der bauliche Vorteil gegenüber einem Poller überhaupt ni...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42640146/show/"
+        },
+        {
+          "id": 42640305,
+          "title": "Es ist interessant, wie empathisch man gegenüber Behinderten ist...",
+          "datetime": "16.05.2023 17:54",
+          "snippet": "...die bei dieser Lösung erheblich mehr Probleme haben dürften als bei solchen, die in halbwegs üblicher Höhe angesiedelt sind. Und die bestimmt auch niemals ein E-Auto benutzen...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Es-ist-interessant-wie-empathisch-man-gegenueber-Behinderten-ist/posting-42640305/show/"
+        },
+        {
+          "id": 42640384,
+          "title": "Re: Ich halte das für ergonomisch total verunglückt...",
+          "datetime": "16.05.2023 18:14",
+          "snippet": "Es ist nicht allen die Fähigkeit gegeben, sich in die Probleme anderer reinzudenken. Meine Eltern sind über 80 und definitv nicht mehr so beweglich. Personen mit Herz- oder Krei...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Ich-halte-das-fuer-ergonomisch-total-verunglueckt/posting-42640384/show/"
+        }
+      ]
+    },
+    "Parken_Bordstein_Stadtbild": {
+      "count": 163,
+      "common_terms": [
+        "sind",
+        "sich",
+        "schrieb",
+        "kabel",
+        "auto",
+        "bordstein",
+        "ladesäulen",
+        "gibt",
+        "autos",
+        "immer",
+        "problem",
+        "hier"
+      ],
+      "examples": [
+        {
+          "id": 42639636,
+          "title": "\"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:01",
+          "snippet": "Bei 22kw brauche ich mehrere Stunden zum \"Volltanken\". Es sollte aber nicht Ziel einer Stadt wie Kölln sein, teure Innenstadtlagen mit \"Dauerparkern\" zu belegen. In Wohnvierteln...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/bis-zu-22-kW-falscher-Ansatz/posting-42639636/show/"
+        },
+        {
+          "id": 42639669,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:08",
+          "snippet": "Bei Leuten die viel innerorts fahren reicht das völlig aus. Keiner steckt wegen 10 Minuten parken den Stecker rein. Bei etwas längeren Standzeiten von etwa einer Stunde reicht d...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639669/show/"
+        },
+        {
+          "id": 42639722,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:17",
+          "snippet": "Du hast den use-case nicht verstanden.  Gerade in historisch gewachsenen Staedten gibt es viele Wohngebiete wo keines der Haeuser auch nur einen Parkplatz hat. Der einzige Parkr...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639722/show/"
+        },
+        {
+          "id": 42639736,
+          "title": "Re: Ich finde gut....",
+          "datetime": "16.05.2023 16:20",
+          "snippet": "Um \"endlich mal loszulegen\" kann man sich auch eine Lösung ausdenken, die bei weitem nicht so offensichtlicher Murks ist. Wenn man am Bordstein rummfummelt kann man auch gleich ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Ich-finde-gut/posting-42639736/show/"
+        },
+        {
+          "id": 42639822,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:33",
+          "snippet": "Johannes Stuettgen schrieb am 16.05.2023 16:17:  ... Es wuerde also voellig ausreichen wenn man an jedem dieser Bordsteine einphasig mit 2-3KW laden koennte.  Von der Ladezeit w...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639822/show/"
+        }
+      ]
+    },
+    "Alternativen_zur_Loesung": {
+      "count": 88,
+      "common_terms": [
+        "sind",
+        "sich",
+        "ladesäulen",
+        "schrieb",
+        "kabel",
+        "auto",
+        "nach",
+        "lösung",
+        "hier",
+        "gibt",
+        "stadt",
+        "immer"
+      ],
+      "examples": [
+        {
+          "id": 42639636,
+          "title": "\"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:01",
+          "snippet": "Bei 22kw brauche ich mehrere Stunden zum \"Volltanken\". Es sollte aber nicht Ziel einer Stadt wie Kölln sein, teure Innenstadtlagen mit \"Dauerparkern\" zu belegen. In Wohnvierteln...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/bis-zu-22-kW-falscher-Ansatz/posting-42639636/show/"
+        },
+        {
+          "id": 42639669,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:08",
+          "snippet": "Bei Leuten die viel innerorts fahren reicht das völlig aus. Keiner steckt wegen 10 Minuten parken den Stecker rein. Bei etwas längeren Standzeiten von etwa einer Stunde reicht d...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639669/show/"
+        },
+        {
+          "id": 42639686,
+          "title": "Re: \"Ladeparks mit Schnellladern\" falscher Ansatz",
+          "datetime": "16.05.2023 16:11",
+          "snippet": "Das ist doch der vollkommen falsche Weg.  Jetzt denke doch mal nach: - Am sinnvollsten ist es E-Autos bevorzugt mit erneuerbaren Energien zu tanken - Dabei das Stromnetz nicht z...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639686/show/"
+        },
+        {
+          "id": 42639736,
+          "title": "Re: Ich finde gut....",
+          "datetime": "16.05.2023 16:20",
+          "snippet": "Um \"endlich mal loszulegen\" kann man sich auch eine Lösung ausdenken, die bei weitem nicht so offensichtlicher Murks ist. Wenn man am Bordstein rummfummelt kann man auch gleich ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Ich-finde-gut/posting-42639736/show/"
+        },
+        {
+          "id": 42639751,
+          "title": "Gute Idee, aber mit Luft nach oben",
+          "datetime": "16.05.2023 16:22",
+          "snippet": "Irgendwie kann ich mir die Lösung \"stadtweiter Kabelsalat\" nicht so recht vorstellen - egal in welcher Form - auch wenn diese Lösung schon deutlich aufgeräumter ist als die bish...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Gute-Idee-aber-mit-Luft-nach-oben/posting-42639751/show/"
+        }
+      ]
+    },
+    "Wirtschaft_Kosten_und_Skalierung": {
+      "count": 63,
+      "common_terms": [
+        "sind",
+        "stadt",
+        "sich",
+        "kosten",
+        "schrieb",
+        "laden",
+        "ladeinfrastruktur",
+        "muss",
+        "sollte",
+        "auto",
+        "sein",
+        "ladesäulen"
+      ],
+      "examples": [
+        {
+          "id": 42639636,
+          "title": "\"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:01",
+          "snippet": "Bei 22kw brauche ich mehrere Stunden zum \"Volltanken\". Es sollte aber nicht Ziel einer Stadt wie Kölln sein, teure Innenstadtlagen mit \"Dauerparkern\" zu belegen. In Wohnvierteln...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/bis-zu-22-kW-falscher-Ansatz/posting-42639636/show/"
+        },
+        {
+          "id": 42639669,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:08",
+          "snippet": "Bei Leuten die viel innerorts fahren reicht das völlig aus. Keiner steckt wegen 10 Minuten parken den Stecker rein. Bei etwas längeren Standzeiten von etwa einer Stunde reicht d...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639669/show/"
+        },
+        {
+          "id": 42639686,
+          "title": "Re: \"Ladeparks mit Schnellladern\" falscher Ansatz",
+          "datetime": "16.05.2023 16:11",
+          "snippet": "Das ist doch der vollkommen falsche Weg.  Jetzt denke doch mal nach: - Am sinnvollsten ist es E-Autos bevorzugt mit erneuerbaren Energien zu tanken - Dabei das Stromnetz nicht z...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639686/show/"
+        },
+        {
+          "id": 42639722,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:17",
+          "snippet": "Du hast den use-case nicht verstanden.  Gerade in historisch gewachsenen Staedten gibt es viele Wohngebiete wo keines der Haeuser auch nur einen Parkplatz hat. Der einzige Parkr...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639722/show/"
+        },
+        {
+          "id": 42639786,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:26",
+          "snippet": "marcosolo schrieb am 16.05.2023 16:08:  BTW: Ich fahren eine Vollelektrischen und habe KEINE Wallbox. Geladen wird beim Einkaufen, das geht richtig gut. Zugegeben meist nicht ga...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639786/show/"
+        }
+      ]
+    },
+    "Grundsatzdebatte_EAuto_und_Verkehrswende": {
+      "count": 122,
+      "common_terms": [
+        "sind",
+        "sich",
+        "schrieb",
+        "auto",
+        "muss",
+        "laden",
+        "ladesäulen",
+        "kabel",
+        "gibt",
+        "stadt",
+        "immer",
+        "sein"
+      ],
+      "examples": [
+        {
+          "id": 42639636,
+          "title": "\"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:01",
+          "snippet": "Bei 22kw brauche ich mehrere Stunden zum \"Volltanken\". Es sollte aber nicht Ziel einer Stadt wie Kölln sein, teure Innenstadtlagen mit \"Dauerparkern\" zu belegen. In Wohnvierteln...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/bis-zu-22-kW-falscher-Ansatz/posting-42639636/show/"
+        },
+        {
+          "id": 42639686,
+          "title": "Re: \"Ladeparks mit Schnellladern\" falscher Ansatz",
+          "datetime": "16.05.2023 16:11",
+          "snippet": "Das ist doch der vollkommen falsche Weg.  Jetzt denke doch mal nach: - Am sinnvollsten ist es E-Autos bevorzugt mit erneuerbaren Energien zu tanken - Dabei das Stromnetz nicht z...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639686/show/"
+        },
+        {
+          "id": 42639722,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:17",
+          "snippet": "Du hast den use-case nicht verstanden.  Gerade in historisch gewachsenen Staedten gibt es viele Wohngebiete wo keines der Haeuser auch nur einen Parkplatz hat. Der einzige Parkr...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639722/show/"
+        },
+        {
+          "id": 42639822,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:33",
+          "snippet": "Johannes Stuettgen schrieb am 16.05.2023 16:17:  ... Es wuerde also voellig ausreichen wenn man an jedem dieser Bordsteine einphasig mit 2-3KW laden koennte.  Von der Ladezeit w...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639822/show/"
+        },
+        {
+          "id": 42639824,
+          "title": "Re: \"Ladeparks mit Schnellladern\" falscher Ansatz",
+          "datetime": "16.05.2023 16:33",
+          "snippet": "Meine Gedanken zielen eher darauf ab, dass es nicht Ziel einer Stadt sein sollte, noch mehr Individualverkehr (der dann den Parkraum noch länger blockiert wie die Dinosauriersch...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639824/show/"
+        }
+      ]
+    },
+    "Rheinmetall_und_Politik": {
+      "count": 38,
+      "common_terms": [
+        "sind",
+        "sich",
+        "immer",
+        "schrieb",
+        "kabel",
+        "nach",
+        "wieder",
+        "rheinmetall",
+        "problem",
+        "wäre",
+        "hier",
+        "viel"
+      ],
+      "examples": [
+        {
+          "id": 42639636,
+          "title": "\"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:01",
+          "snippet": "Bei 22kw brauche ich mehrere Stunden zum \"Volltanken\". Es sollte aber nicht Ziel einer Stadt wie Kölln sein, teure Innenstadtlagen mit \"Dauerparkern\" zu belegen. In Wohnvierteln...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/bis-zu-22-kW-falscher-Ansatz/posting-42639636/show/"
+        },
+        {
+          "id": 42639686,
+          "title": "Re: \"Ladeparks mit Schnellladern\" falscher Ansatz",
+          "datetime": "16.05.2023 16:11",
+          "snippet": "Das ist doch der vollkommen falsche Weg.  Jetzt denke doch mal nach: - Am sinnvollsten ist es E-Autos bevorzugt mit erneuerbaren Energien zu tanken - Dabei das Stromnetz nicht z...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639686/show/"
+        },
+        {
+          "id": 42639746,
+          "title": "Ahh das ist es wieder…",
+          "datetime": "16.05.2023 16:21",
+          "snippet": "das kollektive Heiseleser Wissen!  Wie gut, dass hier darauf hingewiesen wird, dass es bei uns auch mal regnet oder schneit. Oder, dass die Dinger robust sein müssen.  Daran hab...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Ahh-das-ist-es-wieder/posting-42639746/show/"
+        },
+        {
+          "id": 42639824,
+          "title": "Re: \"Ladeparks mit Schnellladern\" falscher Ansatz",
+          "datetime": "16.05.2023 16:33",
+          "snippet": "Meine Gedanken zielen eher darauf ab, dass es nicht Ziel einer Stadt sein sollte, noch mehr Individualverkehr (der dann den Parkraum noch länger blockiert wie die Dinosauriersch...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639824/show/"
+        },
+        {
+          "id": 42639827,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 16:33",
+          "snippet": "dat70 schrieb am 16.05.2023 16:01:  Bei 22kw brauche ich mehrere Stunden zum \"Volltanken\".   Warum sollte jeder mit leeren Akku zum laden kommen? Du fährst scheinbar kein eAuto,...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639827/show/"
+        }
+      ]
+    },
+    "Positive_Erfahrungen_und_Pilotprojekt": {
+      "count": 65,
+      "common_terms": [
+        "sind",
+        "sich",
+        "nach",
+        "schrieb",
+        "auto",
+        "lösung",
+        "idee",
+        "kein",
+        "wieder",
+        "immer",
+        "gibt",
+        "leute"
+      ],
+      "examples": [
+        {
+          "id": 42639683,
+          "title": "Wasser, Regen, Schmutz, Bücken...?",
+          "datetime": "16.05.2023 16:10",
+          "snippet": "Sieht wieder mal nach Tunnelblick-Lösung aus: Da haben ein paar Leute was auf den ersten Blick praktisches ausgeheckt (keine Säule, baulich einfache Lösung), aber irgendwie völl...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Wasser-Regen-Schmutz-Buecken/posting-42639683/show/"
+        },
+        {
+          "id": 42639686,
+          "title": "Re: \"Ladeparks mit Schnellladern\" falscher Ansatz",
+          "datetime": "16.05.2023 16:11",
+          "snippet": "Das ist doch der vollkommen falsche Weg.  Jetzt denke doch mal nach: - Am sinnvollsten ist es E-Autos bevorzugt mit erneuerbaren Energien zu tanken - Dabei das Stromnetz nicht z...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42639686/show/"
+        },
+        {
+          "id": 42639704,
+          "title": "Ich finde gut....",
+          "datetime": "16.05.2023 16:14",
+          "snippet": "...das endlich mal jemand loslegt. Ob aus den Erfahrungen dann rauskommt, das der Stecker zu niedrig, im Winter alles vereist, der Rolly drüber stolpert usw., wird man nach eine...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Ich-finde-gut/posting-42639704/show/"
+        },
+        {
+          "id": 42639751,
+          "title": "Gute Idee, aber mit Luft nach oben",
+          "datetime": "16.05.2023 16:22",
+          "snippet": "Irgendwie kann ich mir die Lösung \"stadtweiter Kabelsalat\" nicht so recht vorstellen - egal in welcher Form - auch wenn diese Lösung schon deutlich aufgeräumter ist als die bish...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Gute-Idee-aber-mit-Luft-nach-oben/posting-42639751/show/"
+        },
+        {
+          "id": 42639809,
+          "title": "Re: Wasser, Regen, Schmutz, Bücken...?",
+          "datetime": "16.05.2023 16:30",
+          "snippet": "sat_bcn schrieb am 16.05.2023 16:10:  Sieht wieder mal nach Tunnelblick-Lösung aus: Da haben ein paar Leute was auf den ersten Blick praktisches ausgeheckt (keine Säule, baulich...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Wasser-Regen-Schmutz-Buecken/posting-42639809/show/"
+        }
+      ]
+    },
+    "Sonstiges": {
+      "count": 44,
+      "common_terms": [
+        "sich",
+        "schrieb",
+        "strom",
+        "immer",
+        "alle",
+        "wieder",
+        "sein",
+        "jemand",
+        "idee",
+        "selbst",
+        "geht",
+        "keine"
+      ],
+      "examples": [
+        {
+          "id": 42640164,
+          "title": "Man stelle sich vor,",
+          "datetime": "16.05.2023 17:28",
+          "snippet": "vor 120 Jahren, als die Automobile immer zahlreicher wurden, wäre jemand mit der Idee gekommen, Benzinleitungen zu den Parkplätzen zu legen. Aber nur weil es sich um Strom hande...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Man-stelle-sich-vor/posting-42640164/show/"
+        },
+        {
+          "id": 42640307,
+          "title": "Re: Man stelle sich vor, es gäbe Trolle ...",
+          "datetime": "16.05.2023 17:54",
+          "snippet": "mcezar2 schrieb am 16.05.2023 17:28:  vor 120 Jahren, als die Automobile immer zahlreicher wurden, wäre jemand mit der Idee gekommen, Benzinleitungen zu den Parkplätzen zu legen...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Man-stelle-sich-vor/posting-42640307/show/"
+        },
+        {
+          "id": 42640311,
+          "title": "Re: \"bis zu 22 kW\"falscher Ansatz",
+          "datetime": "16.05.2023 17:54",
+          "snippet": "Bauordnung ändern z.B. keine Aufzugpflicht bei > 4/5 Stockwerken wenn Gebäude aufgestockt werden.",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-bis-zu-22-kW-falscher-Ansatz/posting-42640311/show/"
+        },
+        {
+          "id": 42640321,
+          "title": "Re: Der Geweg ist für Fußgänger gedacht",
+          "datetime": "16.05.2023 17:57",
+          "snippet": "Kein Problem, dann wird der Fußgängerweg mit einer weißen Linie verkleinert.",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-Der-Geweg-ist-fuer-Fussgaenger-gedacht/posting-42640321/show/"
+        },
+        {
+          "id": 42640349,
+          "title": "Re: In der Stadt schwachsinnig",
+          "datetime": "16.05.2023 18:04",
+          "snippet": "Besser für breitere/mehr Fussgängerwege/-zonen.  Fahrradwege nur dann wenn die Räder dann auch Versichungskennzeichen bekommen. Wenn ich mir vorstelle wie die Idioten die Heute ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Elektroautos-Koeln-bekommt-Ladebordsteine/Re-In-der-Stadt-schwachsinnig/posting-42640349/show/"
+        }
+      ]
+    }
+  }
+}

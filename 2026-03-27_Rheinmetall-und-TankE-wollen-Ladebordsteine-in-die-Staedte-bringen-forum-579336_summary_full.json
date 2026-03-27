@@ -1,0 +1,612 @@
+{
+  "comment_count": 220,
+  "topic_counts": {
+    "Parken_Bordstein_Stadtbild": 120,
+    "Bedienung_und_Ergonomie": 105,
+    "Wetter_Schmutz_und_Robustheit": 93,
+    "Positive_Erfahrungen_und_Pilotprojekt": 85,
+    "Alternativen_zur_Loesung": 48,
+    "Grundsatzdebatte_EAuto_und_Verkehrswende": 47,
+    "Wirtschaft_Kosten_und_Skalierung": 45,
+    "Rheinmetall_und_Politik": 36,
+    "Vandalismus_Sabotage_und_Sicherheit": 28,
+    "Barrierefreiheit_und_Altersfragen": 8,
+    "Sonstiges": 5
+  },
+  "topics": {
+    "Wetter_Schmutz_und_Robustheit": {
+      "count": 93,
+      "common_terms": [
+        "sind",
+        "sich",
+        "schrieb",
+        "laden",
+        "muss",
+        "idee",
+        "keine",
+        "gibt",
+        "sein",
+        "schuko",
+        "schnee",
+        "dort"
+      ],
+      "examples": [
+        {
+          "id": 46092365,
+          "title": "Interessante Idee",
+          "datetime": "17.03.2026 07:35",
+          "snippet": "Aber gerade in Großstädten sehe ich das eher als Ziel von Hunden, gar, um es gelinde zu sagen, stillosen Zeitgenossen, dort bzw. darauf ihre Exkremente zu hinterlassen oder dass...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Interessante-Idee/posting-46092365/show/"
+        },
+        {
+          "id": 46092398,
+          "title": "Keine gute Idee",
+          "datetime": "17.03.2026 07:52",
+          "snippet": "Ich lade nur an Schnelladern beim Einkaufen. 11 oder 22 kW nie, das dauert zu lange. Nur Zuhause wird länger geladen, wenn ich weiß, dass ich das Auto länger nicht brauche, dann...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Keine-gute-Idee/posting-46092398/show/"
+        },
+        {
+          "id": 46092432,
+          "title": "Re: Interessante Idee",
+          "datetime": "17.03.2026 08:10",
+          "snippet": "Ich habe noch nie einen Hundehaufen an der Bürgersteigkante gesehen, aber tausende an Bauminseln oder Laternen. Und selbst wenn es einen ander Kante gäbe, läge er noch lange nic...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Interessante-Idee/posting-46092432/show/"
+        },
+        {
+          "id": 46092466,
+          "title": "Re: Keine gute Idee",
+          "datetime": "17.03.2026 08:19",
+          "snippet": "peter-pano schrieb am 17.03.2026 07:52:  Ich lade nur an Schnelladern beim Einkaufen. 11 oder 22 kW nie, das dauert zu lange. Nur Zuhause wird länger geladen, wenn ich weiß, das...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Keine-gute-Idee/posting-46092466/show/"
+        },
+        {
+          "id": 46092657,
+          "title": "Re: Keine gute Idee",
+          "datetime": "17.03.2026 09:15",
+          "snippet": "peter-pano schrieb am 17.03.2026 08:41:  Ich spreche hier von mir und meiner Meinung. Das bedeutet nicht, dass ich die Lebenssituation anderer nicht anerkenne.   Wie gesagt halt...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Keine-gute-Idee/posting-46092657/show/"
+        }
+      ]
+    },
+    "Bedienung_und_Ergonomie": {
+      "count": 105,
+      "common_terms": [
+        "sind",
+        "laden",
+        "schrieb",
+        "sich",
+        "muss",
+        "boden",
+        "auto",
+        "sein",
+        "idee",
+        "gibt",
+        "keine",
+        "autos"
+      ],
+      "examples": [
+        {
+          "id": 46092398,
+          "title": "Keine gute Idee",
+          "datetime": "17.03.2026 07:52",
+          "snippet": "Ich lade nur an Schnelladern beim Einkaufen. 11 oder 22 kW nie, das dauert zu lange. Nur Zuhause wird länger geladen, wenn ich weiß, dass ich das Auto länger nicht brauche, dann...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Keine-gute-Idee/posting-46092398/show/"
+        },
+        {
+          "id": 46092432,
+          "title": "Re: Interessante Idee",
+          "datetime": "17.03.2026 08:10",
+          "snippet": "Ich habe noch nie einen Hundehaufen an der Bürgersteigkante gesehen, aber tausende an Bauminseln oder Laternen. Und selbst wenn es einen ander Kante gäbe, läge er noch lange nic...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Interessante-Idee/posting-46092432/show/"
+        },
+        {
+          "id": 46092466,
+          "title": "Re: Keine gute Idee",
+          "datetime": "17.03.2026 08:19",
+          "snippet": "peter-pano schrieb am 17.03.2026 07:52:  Ich lade nur an Schnelladern beim Einkaufen. 11 oder 22 kW nie, das dauert zu lange. Nur Zuhause wird länger geladen, wenn ich weiß, das...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Keine-gute-Idee/posting-46092466/show/"
+        },
+        {
+          "id": 46092658,
+          "title": "Re: Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 09:15",
+          "snippet": "Wie funktioniert das anonyme ad-hoc Tanken mit Girocard? [...] Kontaktlos ohne PIN, bei Beträgen von z. B. 50 €?  Und anonym? Wenn das Fahrzeug registriert wird, ist \"ohne PIN\" ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Einfach-mal-den-Links-folgen/posting-46092658/show/"
+        },
+        {
+          "id": 46092964,
+          "title": "Re: Am Bordstein",
+          "datetime": "17.03.2026 10:19",
+          "snippet": "Da hast du leider einiges durcheinander geworfen. Regen ist eingeplant, ein Wasserablauf ist eingebaut. Das Befahren ist auch kein Problem, die Dinger sind robust genug gebaut u...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Am-Bordstein/posting-46092964/show/"
+        }
+      ]
+    },
+    "Parken_Bordstein_Stadtbild": {
+      "count": 120,
+      "common_terms": [
+        "sind",
+        "schrieb",
+        "sich",
+        "bordstein",
+        "keine",
+        "laden",
+        "muss",
+        "gibt",
+        "idee",
+        "ladebordstein",
+        "also",
+        "sein"
+      ],
+      "examples": [
+        {
+          "id": 46092398,
+          "title": "Keine gute Idee",
+          "datetime": "17.03.2026 07:52",
+          "snippet": "Ich lade nur an Schnelladern beim Einkaufen. 11 oder 22 kW nie, das dauert zu lange. Nur Zuhause wird länger geladen, wenn ich weiß, dass ich das Auto länger nicht brauche, dann...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Keine-gute-Idee/posting-46092398/show/"
+        },
+        {
+          "id": 46092404,
+          "title": "Am Bordstein",
+          "datetime": "17.03.2026 07:56",
+          "snippet": "wos draufregnen kann und durch etwas beim drauffahren kaputt werden kann. Und dann sind da hohe Spannungen drin - bis 800 Volt  Wie blöd sind die, die sowas planen und machen ?",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Am-Bordstein/posting-46092404/show/"
+        },
+        {
+          "id": 46092409,
+          "title": "Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 07:58",
+          "snippet": "Oder bei Rheinmetall nachsehen...  https://www.rheinmetall.com/de/produkte/ladeinfrastruktur/ladebordstein https://www.youtube.com/watch?v=d-7dvy9xK1U  Dann erübrigen sich hier ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Einfach-mal-den-Links-folgen/posting-46092409/show/"
+        },
+        {
+          "id": 46092411,
+          "title": "Re: Am Bordstein",
+          "datetime": "17.03.2026 07:59",
+          "snippet": "Robert Mühlbauer schrieb am 17.03.2026 07:56:  wos draufregnen kann und durch etwas beim drauffahren kaputt werden kann.  Deswegen kommt das nicht von einer Luftwerft sondern vo...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Am-Bordstein/posting-46092411/show/"
+        },
+        {
+          "id": 46092432,
+          "title": "Re: Interessante Idee",
+          "datetime": "17.03.2026 08:10",
+          "snippet": "Ich habe noch nie einen Hundehaufen an der Bürgersteigkante gesehen, aber tausende an Bauminseln oder Laternen. Und selbst wenn es einen ander Kante gäbe, läge er noch lange nic...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Interessante-Idee/posting-46092432/show/"
+        }
+      ]
+    },
+    "Wirtschaft_Kosten_und_Skalierung": {
+      "count": 45,
+      "common_terms": [
+        "sind",
+        "schrieb",
+        "sich",
+        "schuko",
+        "laden",
+        "keine",
+        "muss",
+        "strom",
+        "idee",
+        "ohne",
+        "gibt",
+        "ladebordstein"
+      ],
+      "examples": [
+        {
+          "id": 46092398,
+          "title": "Keine gute Idee",
+          "datetime": "17.03.2026 07:52",
+          "snippet": "Ich lade nur an Schnelladern beim Einkaufen. 11 oder 22 kW nie, das dauert zu lange. Nur Zuhause wird länger geladen, wenn ich weiß, dass ich das Auto länger nicht brauche, dann...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Keine-gute-Idee/posting-46092398/show/"
+        },
+        {
+          "id": 46092409,
+          "title": "Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 07:58",
+          "snippet": "Oder bei Rheinmetall nachsehen...  https://www.rheinmetall.com/de/produkte/ladeinfrastruktur/ladebordstein https://www.youtube.com/watch?v=d-7dvy9xK1U  Dann erübrigen sich hier ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Einfach-mal-den-Links-folgen/posting-46092409/show/"
+        },
+        {
+          "id": 46092466,
+          "title": "Re: Keine gute Idee",
+          "datetime": "17.03.2026 08:19",
+          "snippet": "peter-pano schrieb am 17.03.2026 07:52:  Ich lade nur an Schnelladern beim Einkaufen. 11 oder 22 kW nie, das dauert zu lange. Nur Zuhause wird länger geladen, wenn ich weiß, das...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Keine-gute-Idee/posting-46092466/show/"
+        },
+        {
+          "id": 46092658,
+          "title": "Re: Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 09:15",
+          "snippet": "Wie funktioniert das anonyme ad-hoc Tanken mit Girocard? [...] Kontaktlos ohne PIN, bei Beträgen von z. B. 50 €?  Und anonym? Wenn das Fahrzeug registriert wird, ist \"ohne PIN\" ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Einfach-mal-den-Links-folgen/posting-46092658/show/"
+        },
+        {
+          "id": 46092715,
+          "title": "Re: Keine gute Idee",
+          "datetime": "17.03.2026 09:28",
+          "snippet": "Von deiner Kritik bleibt demnach \"bücken müssen\" und ggf. \"Abdeckung verschmutzt\" übrig,  Nein, es bleibt auch »lädt zu langsam« sowie Regen, Schnee, aufwendige Installation und...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Keine-gute-Idee/posting-46092715/show/"
+        }
+      ]
+    },
+    "Positive_Erfahrungen_und_Pilotprojekt": {
+      "count": 85,
+      "common_terms": [
+        "idee",
+        "keine",
+        "gute",
+        "sind",
+        "sich",
+        "schrieb",
+        "muss",
+        "boden",
+        "chen",
+        "funktioniert",
+        "schw",
+        "also"
+      ],
+      "examples": [
+        {
+          "id": 46092398,
+          "title": "Keine gute Idee",
+          "datetime": "17.03.2026 07:52",
+          "snippet": "Ich lade nur an Schnelladern beim Einkaufen. 11 oder 22 kW nie, das dauert zu lange. Nur Zuhause wird länger geladen, wenn ich weiß, dass ich das Auto länger nicht brauche, dann...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Keine-gute-Idee/posting-46092398/show/"
+        },
+        {
+          "id": 46092466,
+          "title": "Re: Keine gute Idee",
+          "datetime": "17.03.2026 08:19",
+          "snippet": "peter-pano schrieb am 17.03.2026 07:52:  Ich lade nur an Schnelladern beim Einkaufen. 11 oder 22 kW nie, das dauert zu lange. Nur Zuhause wird länger geladen, wenn ich weiß, das...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Keine-gute-Idee/posting-46092466/show/"
+        },
+        {
+          "id": 46092487,
+          "title": "Re: Am Bordstein",
+          "datetime": "17.03.2026 08:25",
+          "snippet": "Robert Mühlbauer schrieb am 17.03.2026 07:56:  Wie blöd sind die, die sowas planen und machen ?  Die sind sogar so blöd, diese Idee in einem ca. ein Jahr langem Feldtest (also i...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Am-Bordstein/posting-46092487/show/"
+        },
+        {
+          "id": 46092508,
+          "title": "Re: Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 08:33",
+          "snippet": "> Oder bei Rheinmetall nachsehen...  Na ja, was da steht ist nicht wirklich klar.  Wie funktioniert das anonyme ad-hoc Tanken mit Girocard? Ist AFAIK ja gesetzlich als Möglichke...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Einfach-mal-den-Links-folgen/posting-46092508/show/"
+        },
+        {
+          "id": 46092542,
+          "title": "Re: Keine gute Idee",
+          "datetime": "17.03.2026 08:41",
+          "snippet": "Ich spreche hier von mir und meiner Meinung. Das bedeutet nicht, dass ich die Lebenssituation anderer nicht anerkenne.   Wie gesagt halte ich aus den erwähnten Gründen den Ladeb...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Keine-gute-Idee/posting-46092542/show/"
+        }
+      ]
+    },
+    "Vandalismus_Sabotage_und_Sicherheit": {
+      "count": 28,
+      "common_terms": [
+        "sind",
+        "sich",
+        "vandalismus",
+        "schrieb",
+        "kabel",
+        "laden",
+        "ohne",
+        "wieder",
+        "machen",
+        "dreck",
+        "sein",
+        "muss"
+      ],
+      "examples": [
+        {
+          "id": 46092404,
+          "title": "Am Bordstein",
+          "datetime": "17.03.2026 07:56",
+          "snippet": "wos draufregnen kann und durch etwas beim drauffahren kaputt werden kann. Und dann sind da hohe Spannungen drin - bis 800 Volt  Wie blöd sind die, die sowas planen und machen ?",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Am-Bordstein/posting-46092404/show/"
+        },
+        {
+          "id": 46092411,
+          "title": "Re: Am Bordstein",
+          "datetime": "17.03.2026 07:59",
+          "snippet": "Robert Mühlbauer schrieb am 17.03.2026 07:56:  wos draufregnen kann und durch etwas beim drauffahren kaputt werden kann.  Deswegen kommt das nicht von einer Luftwerft sondern vo...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Am-Bordstein/posting-46092411/show/"
+        },
+        {
+          "id": 46092954,
+          "title": "Re: Am Bordstein",
+          "datetime": "17.03.2026 10:17",
+          "snippet": "Robert Mühlbauer schrieb am 17.03.2026 07:56:  wos draufregnen kann und durch etwas beim drauffahren kaputt werden kann. Und dann sind da hohe Spannungen drin - bis 800 Volt  Wi...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Am-Bordstein/posting-46092954/show/"
+        },
+        {
+          "id": 46093094,
+          "title": "Re: Am Bordstein",
+          "datetime": "17.03.2026 10:48",
+          "snippet": "Robert Mühlbauer schrieb am 17.03.2026 07:56:  wos draufregnen kann und durch etwas beim drauffahren kaputt werden kann. Und dann sind da hohe Spannungen drin - bis 800 Volt  Wi...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Am-Bordstein/posting-46093094/show/"
+        },
+        {
+          "id": 46093243,
+          "title": "Re: Keine Sorge, die haben sich vorher schlau gemacht...",
+          "datetime": "17.03.2026 11:22",
+          "snippet": "Robert Mühlbauer schrieb am 17.03.2026 07:56:  wos draufregnen kann und durch etwas beim drauffahren kaputt werden kann. Und dann sind da hohe Spannungen drin - bis 800 Volt  Wi...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Am-Bordstein/posting-46093243/show/"
+        }
+      ]
+    },
+    "Grundsatzdebatte_EAuto_und_Verkehrswende": {
+      "count": 47,
+      "common_terms": [
+        "sind",
+        "laden",
+        "sich",
+        "schrieb",
+        "auto",
+        "sein",
+        "autos",
+        "keine",
+        "also",
+        "nnen",
+        "muss",
+        "gibt"
+      ],
+      "examples": [
+        {
+          "id": 46092409,
+          "title": "Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 07:58",
+          "snippet": "Oder bei Rheinmetall nachsehen...  https://www.rheinmetall.com/de/produkte/ladeinfrastruktur/ladebordstein https://www.youtube.com/watch?v=d-7dvy9xK1U  Dann erübrigen sich hier ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Einfach-mal-den-Links-folgen/posting-46092409/show/"
+        },
+        {
+          "id": 46092466,
+          "title": "Re: Keine gute Idee",
+          "datetime": "17.03.2026 08:19",
+          "snippet": "peter-pano schrieb am 17.03.2026 07:52:  Ich lade nur an Schnelladern beim Einkaufen. 11 oder 22 kW nie, das dauert zu lange. Nur Zuhause wird länger geladen, wenn ich weiß, das...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Keine-gute-Idee/posting-46092466/show/"
+        },
+        {
+          "id": 46092634,
+          "title": "Re: Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 09:09",
+          "snippet": "Einfach mal den Links folgen  ..ist überflüssig, da steht auch nichts weiteres Relevantes.",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Einfach-mal-den-Links-folgen/posting-46092634/show/"
+        },
+        {
+          "id": 46092658,
+          "title": "Re: Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 09:15",
+          "snippet": "Wie funktioniert das anonyme ad-hoc Tanken mit Girocard? [...] Kontaktlos ohne PIN, bei Beträgen von z. B. 50 €?  Und anonym? Wenn das Fahrzeug registriert wird, ist \"ohne PIN\" ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Einfach-mal-den-Links-folgen/posting-46092658/show/"
+        },
+        {
+          "id": 46093136,
+          "title": "Re: Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 10:58",
+          "snippet": "Außer Preis alle relevanten Hardwaredaten. Weiteres regelt der Betreiber.",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Einfach-mal-den-Links-folgen/posting-46093136/show/"
+        }
+      ]
+    },
+    "Rheinmetall_und_Politik": {
+      "count": 36,
+      "common_terms": [
+        "sind",
+        "rheinmetall",
+        "laden",
+        "schrieb",
+        "ladebordstein",
+        "autos",
+        "sich",
+        "ohne",
+        "dazu",
+        "nach",
+        "gibt",
+        "wirklich"
+      ],
+      "examples": [
+        {
+          "id": 46092409,
+          "title": "Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 07:58",
+          "snippet": "Oder bei Rheinmetall nachsehen...  https://www.rheinmetall.com/de/produkte/ladeinfrastruktur/ladebordstein https://www.youtube.com/watch?v=d-7dvy9xK1U  Dann erübrigen sich hier ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Einfach-mal-den-Links-folgen/posting-46092409/show/"
+        },
+        {
+          "id": 46092508,
+          "title": "Re: Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 08:33",
+          "snippet": "> Oder bei Rheinmetall nachsehen...  Na ja, was da steht ist nicht wirklich klar.  Wie funktioniert das anonyme ad-hoc Tanken mit Girocard? Ist AFAIK ja gesetzlich als Möglichke...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Einfach-mal-den-Links-folgen/posting-46092508/show/"
+        },
+        {
+          "id": 46092658,
+          "title": "Re: Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 09:15",
+          "snippet": "Wie funktioniert das anonyme ad-hoc Tanken mit Girocard? [...] Kontaktlos ohne PIN, bei Beträgen von z. B. 50 €?  Und anonym? Wenn das Fahrzeug registriert wird, ist \"ohne PIN\" ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Einfach-mal-den-Links-folgen/posting-46092658/show/"
+        },
+        {
+          "id": 46092702,
+          "title": "Re: Einfach mal den Links folgen...",
+          "datetime": "17.03.2026 09:25",
+          "snippet": "Wie denn auch - das regelt der Ladeanbieter/Betreiber. TankE und Rheinmetall liefern nur Hardware...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Einfach-mal-den-Links-folgen/posting-46092702/show/"
+        },
+        {
+          "id": 46092964,
+          "title": "Re: Am Bordstein",
+          "datetime": "17.03.2026 10:19",
+          "snippet": "Da hast du leider einiges durcheinander geworfen. Regen ist eingeplant, ein Wasserablauf ist eingebaut. Das Befahren ist auch kein Problem, die Dinger sind robust genug gebaut u...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Am-Bordstein/posting-46092964/show/"
+        }
+      ]
+    },
+    "Alternativen_zur_Loesung": {
+      "count": 48,
+      "common_terms": [
+        "sind",
+        "muss",
+        "laden",
+        "schrieb",
+        "sich",
+        "ulen",
+        "autos",
+        "gibt",
+        "dort",
+        "ohne",
+        "stra",
+        "kabel"
+      ],
+      "examples": [
+        {
+          "id": 46092432,
+          "title": "Re: Interessante Idee",
+          "datetime": "17.03.2026 08:10",
+          "snippet": "Ich habe noch nie einen Hundehaufen an der Bürgersteigkante gesehen, aber tausende an Bauminseln oder Laternen. Und selbst wenn es einen ander Kante gäbe, läge er noch lange nic...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Interessante-Idee/posting-46092432/show/"
+        },
+        {
+          "id": 46092964,
+          "title": "Re: Am Bordstein",
+          "datetime": "17.03.2026 10:19",
+          "snippet": "Da hast du leider einiges durcheinander geworfen. Regen ist eingeplant, ein Wasserablauf ist eingebaut. Das Befahren ist auch kein Problem, die Dinger sind robust genug gebaut u...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Am-Bordstein/posting-46092964/show/"
+        },
+        {
+          "id": 46094415,
+          "title": "Schlechtestmögliche Lösung am (Anwohner-)bedarf vorbei würd ich mal sagen",
+          "datetime": "17.03.2026 16:10",
+          "snippet": "Ich kann das auch nicht nachvollziehen.  Ich musste sofort an die Fußbodentanks denken, die man in Bürohäusern und Schulen findet. Die sind in aller Regel in kürzester Zeit voll...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Warum-eigentlich-ein-Bordstein/posting-46094415/show/"
+        },
+        {
+          "id": 46094433,
+          "title": "Wieso nicht einfach Strassenlaternen?",
+          "datetime": "17.03.2026 16:14",
+          "snippet": "Ob da jetzt die Technik mit Aussenbedingungen wie Schnee, Wasser, Dreck, Müll, Hundekot etc klar kommt, sei dahingestellt. Es ginge trotzdem viel einfacher, mit mehr Vorteilen. ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Wieso-nicht-einfach-Strassenlaternen/posting-46094433/show/"
+        },
+        {
+          "id": 46094759,
+          "title": "Zwei davon senkrecht an jede Laterne...",
+          "datetime": "17.03.2026 17:49",
+          "snippet": "... schon muss sich niemand mehr bücken, steht keiner mit dem Auto drauf oder schiebt Schnee drauf.   Vielleicht kann ein Teil der Technik noch unterirdisch verschwinden, so das...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Zwei-davon-senkrecht-an-jede-Laterne/posting-46094759/show/"
+        }
+      ]
+    },
+    "Barrierefreiheit_und_Altersfragen": {
+      "count": 8,
+      "common_terms": [
+        "menschen",
+        "sind",
+        "lades",
+        "ding",
+        "gibt",
+        "ulen",
+        "stra",
+        "autos",
+        "ganz",
+        "platz",
+        "altersdiskrimiered",
+        "alter"
+      ],
+      "examples": [
+        {
+          "id": 46093989,
+          "title": "Re: Warum eigentlich ein Bordstein?",
+          "datetime": "17.03.2026 14:17",
+          "snippet": "Vermutlich weil sie Barrieren darstellen. Auch wird es wohl eine Platzfrage sein. In Holland gibt es wohl recht schmale Ladesäulen die nach deinem Vorschlag klingen.   Es kann n...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Warum-eigentlich-ein-Bordstein/posting-46093989/show/"
+        },
+        {
+          "id": 46095634,
+          "title": "Rheinmetall legt auf Zivilisten an.",
+          "datetime": "18.03.2026 04:24",
+          "snippet": "Gehen Rheinmetall jetzt schon die Kriege aus?  Echt eine prima Idee mit den Bordsteinsteckdosen! Wirklich!  Im Winter nicht benutzbar, weil überfrorene Schneehaufen. Absolut hyg...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Rheinmetall-legt-auf-Zivilisten-an/posting-46095634/show/"
+        },
+        {
+          "id": 46096160,
+          "title": "zuende Denken",
+          "datetime": "18.03.2026 09:32",
+          "snippet": "Tja ich komm beim zuende Denken irgendwie immer beim autonomen induktiven Laden an. Automatisch passgenau drüberfahren und ggf. nach dem Laden den Platz wieder autonom freimache...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Ich-hab-sie-benutzt/posting-46096160/show/"
+        },
+        {
+          "id": 46100172,
+          "title": "Das Ding ist altersdiskrimiered",
+          "datetime": "19.03.2026 08:18",
+          "snippet": "Mit zunehmendem Alter, gerät dieser Ladebordstein in unerreichbare Dimensionen. Von an den Rollstuhl angewiesenen Menschen wird da auch keiner gefahrlos rankommen.   Das Ding is...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Das-Ding-ist-altersdiskrimiered/posting-46100172/show/"
+        },
+        {
+          "id": 46100768,
+          "title": "Re: Das Ding ist altersdiskrimiered",
+          "datetime": "19.03.2026 10:41",
+          "snippet": "Wenn man es vor lauter Altersgebrechlichkeit nicht einmal mehr schafft, mit dem Ladekabel den Boden zu beruehren und die Klappe zu oeffnen (mit Rollstuhl eigentlich kein Problem...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Das-Ding-ist-altersdiskrimiered/posting-46100768/show/"
+        }
+      ]
+    },
+    "Sonstiges": {
+      "count": 5,
+      "common_terms": [
+        "sich",
+        "wurstk",
+        "thofi",
+        "schrieb",
+        "komplexer",
+        "fehleranf",
+        "lliger",
+        "machen",
+        "kleiner",
+        "thermostat",
+        "draht",
+        "kein"
+      ],
+      "examples": [
+        {
+          "id": 46094137,
+          "title": "Re: WurstKäse",
+          "datetime": "17.03.2026 14:50",
+          "snippet": "ThoFi98 schrieb am 17.03.2026 14:46:  komplexer und fehleranfälliger machen.  Das ist ein kleiner Thermostat und ein Heißdraht. Das ist nun kein Drama.   Die Verschlussklappe so...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-WurstKaese/posting-46094137/show/"
+        },
+        {
+          "id": 46095344,
+          "title": "Re: Und was, wenn ein Amazon-Bote im Sprinter drüberräubert?",
+          "datetime": "17.03.2026 21:41",
+          "snippet": "In dem einen Video zu den Ladestationen hieß es das auch ein LKW darüber fahren kann.",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Und-was-wenn-ein-Amazon-Bote-im-Sprinter-drueberraeubert/posting-46095344/show/"
+        },
+        {
+          "id": 46095974,
+          "title": "Bist Du ein Bot?",
+          "datetime": "18.03.2026 08:42",
+          "snippet": "Wenn ja, poste mal Dein Lieblingsrezept.",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Warum-eigentlich-ein-Bordstein/posting-46095974/show/"
+        },
+        {
+          "id": 46096213,
+          "title": "Re: Tolle Idee! Finde ich innovativ und gut!",
+          "datetime": "18.03.2026 09:43",
+          "snippet": ">>wenn die Deutschen nicht immer nur Rum jammern und nach Haaren in der Suppe suchen  sehe ich auch so ;)",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Tolle-Idee-Finde-ich-innovativ-und-gut/posting-46096213/show/"
+        },
+        {
+          "id": 46100109,
+          "title": "Re: Ich kann mir nicht vorstellen, dass sowas in DE funktioneren soll.",
+          "datetime": "19.03.2026 08:01",
+          "snippet": "Stellplätze einzeichnen und starke Kontrolle mit Busgeldern. Das löst dann entweder das  Ladeproblem oder das Defizit im Haushalt ;)",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen/Re-Ich-kann-mir-nicht-vorstellen-dass-sowas-in-DE-funktioneren-soll/posting-46100109/show/"
+        }
+      ]
+    }
+  }
+}

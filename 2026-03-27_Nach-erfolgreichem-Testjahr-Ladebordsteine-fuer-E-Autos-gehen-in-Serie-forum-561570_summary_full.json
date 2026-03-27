@@ -1,0 +1,584 @@
+{
+  "comment_count": 122,
+  "topic_counts": {
+    "Wetter_Schmutz_und_Robustheit": 63,
+    "Parken_Bordstein_Stadtbild": 54,
+    "Bedienung_und_Ergonomie": 51,
+    "Rheinmetall_und_Politik": 44,
+    "Wirtschaft_Kosten_und_Skalierung": 31,
+    "Alternativen_zur_Loesung": 30,
+    "Grundsatzdebatte_EAuto_und_Verkehrswende": 22,
+    "Positive_Erfahrungen_und_Pilotprojekt": 17,
+    "Vandalismus_Sabotage_und_Sicherheit": 8,
+    "Barrierefreiheit_und_Altersfragen": 3,
+    "Sonstiges": 3
+  },
+  "topics": {
+    "Bedienung_und_Ergonomie": {
+      "count": 51,
+      "common_terms": [
+        "schrieb",
+        "sind",
+        "auto",
+        "kabel",
+        "keine",
+        "stecker",
+        "poller",
+        "sich",
+        "absicherung",
+        "ohne",
+        "sondern",
+        "benötigt"
+      ],
+      "examples": [
+        {
+          "id": 45180437,
+          "title": "benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert",
+          "datetime": "13.05.2025 15:17",
+          "snippet": "benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert auch nicht den Fuß-, Rad- und Straßenverkehr  Auch nicht wenn ein Stecker eingesteckt ist?  Wenn...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180437/show/"
+        },
+        {
+          "id": 45180475,
+          "title": "Sauberkeit und Bequemlichkeit",
+          "datetime": "13.05.2025 15:31",
+          "snippet": "Also die Bequemlichkeit ist natürlich das eine. Einen Stecker im Boden einzustecken ist deutlich unangenehmer als in normaler Höhe. Wer jung ist, der macht das ohne Probleme. Ab...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Sauberkeit-und-Bequemlichkeit/posting-45180475/show/"
+        },
+        {
+          "id": 45180479,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:31",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 15:17:  benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert auch nicht den Fuß-, Rad- und Straßenverkehr ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180479/show/"
+        },
+        {
+          "id": 45180485,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:33",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 15:17:  https://www.rheinmetall.com/Rheinmetall%20Group/Systeme%20und%20Produkte/Mobilit%C3%A4t/Ladebordstein/173644/image-thumb__1736...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180485/show/"
+        },
+        {
+          "id": 45180580,
+          "title": "Re: Sauberkeit und Bequemlichkeit",
+          "datetime": "13.05.2025 16:03",
+          "snippet": "EggerdHubertsen schrieb am 13.05.2025 15:31:  Also die Bequemlichkeit ist natürlich das eine. Einen Stecker im Boden einzustecken ist deutlich unangenehmer als in normaler Höhe....",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Sauberkeit-und-Bequemlichkeit/posting-45180580/show/"
+        }
+      ]
+    },
+    "Parken_Bordstein_Stadtbild": {
+      "count": 54,
+      "common_terms": [
+        "sind",
+        "schrieb",
+        "auto",
+        "keine",
+        "poller",
+        "sich",
+        "bordstein",
+        "absicherung",
+        "kabel",
+        "dazu",
+        "benötigt",
+        "freie"
+      ],
+      "examples": [
+        {
+          "id": 45180437,
+          "title": "benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert",
+          "datetime": "13.05.2025 15:17",
+          "snippet": "benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert auch nicht den Fuß-, Rad- und Straßenverkehr  Auch nicht wenn ein Stecker eingesteckt ist?  Wenn...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180437/show/"
+        },
+        {
+          "id": 45180479,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:31",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 15:17:  benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert auch nicht den Fuß-, Rad- und Straßenverkehr ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180479/show/"
+        },
+        {
+          "id": 45180483,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:32",
+          "snippet": "Wenn das Fahrzeug wie im Bild geparkt ist  dann ja, wobei die meissten es vermeiden auf der Bordsteinkante zu gehen. Aber bei dem Abstand würde hier fast schon ein Ticket fällig...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180483/show/"
+        },
+        {
+          "id": 45180485,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:33",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 15:17:  https://www.rheinmetall.com/Rheinmetall%20Group/Systeme%20und%20Produkte/Mobilit%C3%A4t/Ladebordstein/173644/image-thumb__1736...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180485/show/"
+        },
+        {
+          "id": 45180511,
+          "title": "Robustheit bei Überfahren, Kollision und Starkregen",
+          "datetime": "13.05.2025 15:43",
+          "snippet": "Sieh zweite Hälfte des folgenden Videos:  https://www.rheinmetall.com/de/produkte/e-mobilitaet/e-power-loesungen/ladeinfrastruktur/ladebordstein#anchor-video  Da Rheinmetall in ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Robustheit-bei-Ueberfahren-Kollision-und-Starkregen/posting-45180511/show/"
+        }
+      ]
+    },
+    "Barrierefreiheit_und_Altersfragen": {
+      "count": 3,
+      "common_terms": [
+        "absicherung",
+        "keine",
+        "sich",
+        "benötigt",
+        "poller",
+        "sorgt",
+        "freie",
+        "sichtachsen",
+        "rheinmetall",
+        "image",
+        "behindert",
+        "bild"
+      ],
+      "examples": [
+        {
+          "id": 45180437,
+          "title": "benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert",
+          "datetime": "13.05.2025 15:17",
+          "snippet": "benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert auch nicht den Fuß-, Rad- und Straßenverkehr  Auch nicht wenn ein Stecker eingesteckt ist?  Wenn...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180437/show/"
+        },
+        {
+          "id": 45180479,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:31",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 15:17:  benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert auch nicht den Fuß-, Rad- und Straßenverkehr ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180479/show/"
+        },
+        {
+          "id": 45189721,
+          "title": "Re: Schilda & Fördermittel-Mafia",
+          "datetime": "16.05.2025 16:34",
+          "snippet": "1. wie soll der Kabelstrang geführt werden? Dazu muss aufwendig sowieso die gesamte Decke geöffnet werden und Verteilungen vorgesehen werden.  Wohl so, wie zu anderen Ladestatio...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Schilda-Foerdermittel-Mafia/posting-45189721/show/"
+        }
+      ]
+    },
+    "Rheinmetall_und_Politik": {
+      "count": 44,
+      "common_terms": [
+        "rheinmetall",
+        "schrieb",
+        "sind",
+        "keine",
+        "vorsicht",
+        "kriegsfirma",
+        "sich",
+        "krieg",
+        "auto",
+        "habe",
+        "hier",
+        "wieder"
+      ],
+      "examples": [
+        {
+          "id": 45180437,
+          "title": "benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert",
+          "datetime": "13.05.2025 15:17",
+          "snippet": "benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert auch nicht den Fuß-, Rad- und Straßenverkehr  Auch nicht wenn ein Stecker eingesteckt ist?  Wenn...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180437/show/"
+        },
+        {
+          "id": 45180479,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:31",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 15:17:  benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behindert auch nicht den Fuß-, Rad- und Straßenverkehr ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180479/show/"
+        },
+        {
+          "id": 45180485,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:33",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 15:17:  https://www.rheinmetall.com/Rheinmetall%20Group/Systeme%20und%20Produkte/Mobilit%C3%A4t/Ladebordstein/173644/image-thumb__1736...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180485/show/"
+        },
+        {
+          "id": 45180511,
+          "title": "Robustheit bei Überfahren, Kollision und Starkregen",
+          "datetime": "13.05.2025 15:43",
+          "snippet": "Sieh zweite Hälfte des folgenden Videos:  https://www.rheinmetall.com/de/produkte/e-mobilitaet/e-power-loesungen/ladeinfrastruktur/ladebordstein#anchor-video  Da Rheinmetall in ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Robustheit-bei-Ueberfahren-Kollision-und-Starkregen/posting-45180511/show/"
+        },
+        {
+          "id": 45180557,
+          "title": "Vorsicht Kriegsfirma!",
+          "datetime": "13.05.2025 15:56",
+          "snippet": "Rheinmetall ist nen Rüstungskonzern. Die stellen gerne Waffen her, die dafür sorgen, dass Menschen, Tiere und Natur zerstört werden.  Ich würde niemals freiwillig irgendetwas vo...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Vorsicht-Kriegsfirma/posting-45180557/show/"
+        }
+      ]
+    },
+    "Wetter_Schmutz_und_Robustheit": {
+      "count": 63,
+      "common_terms": [
+        "schrieb",
+        "sind",
+        "sich",
+        "auto",
+        "stecker",
+        "keine",
+        "hier",
+        "rheinmetall",
+        "also",
+        "schnee",
+        "habe",
+        "preis"
+      ],
+      "examples": [
+        {
+          "id": 45180475,
+          "title": "Sauberkeit und Bequemlichkeit",
+          "datetime": "13.05.2025 15:31",
+          "snippet": "Also die Bequemlichkeit ist natürlich das eine. Einen Stecker im Boden einzustecken ist deutlich unangenehmer als in normaler Höhe. Wer jung ist, der macht das ohne Probleme. Ab...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Sauberkeit-und-Bequemlichkeit/posting-45180475/show/"
+        },
+        {
+          "id": 45180483,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:32",
+          "snippet": "Wenn das Fahrzeug wie im Bild geparkt ist  dann ja, wobei die meissten es vermeiden auf der Bordsteinkante zu gehen. Aber bei dem Abstand würde hier fast schon ein Ticket fällig...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180483/show/"
+        },
+        {
+          "id": 45180485,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:33",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 15:17:  https://www.rheinmetall.com/Rheinmetall%20Group/Systeme%20und%20Produkte/Mobilit%C3%A4t/Ladebordstein/173644/image-thumb__1736...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180485/show/"
+        },
+        {
+          "id": 45180511,
+          "title": "Robustheit bei Überfahren, Kollision und Starkregen",
+          "datetime": "13.05.2025 15:43",
+          "snippet": "Sieh zweite Hälfte des folgenden Videos:  https://www.rheinmetall.com/de/produkte/e-mobilitaet/e-power-loesungen/ladeinfrastruktur/ladebordstein#anchor-video  Da Rheinmetall in ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Robustheit-bei-Ueberfahren-Kollision-und-Starkregen/posting-45180511/show/"
+        },
+        {
+          "id": 45180580,
+          "title": "Re: Sauberkeit und Bequemlichkeit",
+          "datetime": "13.05.2025 16:03",
+          "snippet": "EggerdHubertsen schrieb am 13.05.2025 15:31:  Also die Bequemlichkeit ist natürlich das eine. Einen Stecker im Boden einzustecken ist deutlich unangenehmer als in normaler Höhe....",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Sauberkeit-und-Bequemlichkeit/posting-45180580/show/"
+        }
+      ]
+    },
+    "Alternativen_zur_Loesung": {
+      "count": 30,
+      "common_terms": [
+        "sind",
+        "auto",
+        "stecker",
+        "schrieb",
+        "sich",
+        "poller",
+        "keine",
+        "straßenlaterne",
+        "kabel",
+        "alternativ",
+        "dazu",
+        "ohne"
+      ],
+      "examples": [
+        {
+          "id": 45180475,
+          "title": "Sauberkeit und Bequemlichkeit",
+          "datetime": "13.05.2025 15:31",
+          "snippet": "Also die Bequemlichkeit ist natürlich das eine. Einen Stecker im Boden einzustecken ist deutlich unangenehmer als in normaler Höhe. Wer jung ist, der macht das ohne Probleme. Ab...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Sauberkeit-und-Bequemlichkeit/posting-45180475/show/"
+        },
+        {
+          "id": 45180580,
+          "title": "Re: Sauberkeit und Bequemlichkeit",
+          "datetime": "13.05.2025 16:03",
+          "snippet": "EggerdHubertsen schrieb am 13.05.2025 15:31:  Also die Bequemlichkeit ist natürlich das eine. Einen Stecker im Boden einzustecken ist deutlich unangenehmer als in normaler Höhe....",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Sauberkeit-und-Bequemlichkeit/posting-45180580/show/"
+        },
+        {
+          "id": 45180647,
+          "title": "Re: Sauberkeit und Bequemlichkeit",
+          "datetime": "13.05.2025 16:22",
+          "snippet": "Richtig.  Das Risiko beim Verlassen des Autos an einem Baum oder sonstigen Grünstreifen in eine der unzähligen Hunde-Tretminen zu geraden ist wohl höher als das Risiko sich das ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Sauberkeit-und-Bequemlichkeit/posting-45180647/show/"
+        },
+        {
+          "id": 45180898,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 17:57",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 15:17:  Hab ich meine Zweifel dass so ein Ding völlig ohne Absicherung gegen überfahren oder drüber stolpern an der Bordsteinkante ins...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180898/show/"
+        },
+        {
+          "id": 45180911,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 18:01",
+          "snippet": "Dieses Ding ist nicht ohne Grund genau so groß, wie eine normale Bordsteinkante. Da haben sich die Entwickler schon Gedanken drüber gemacht.",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180911/show/"
+        }
+      ]
+    },
+    "Vandalismus_Sabotage_und_Sicherheit": {
+      "count": 8,
+      "common_terms": [
+        "sind",
+        "fmea",
+        "probleme",
+        "eben",
+        "keine",
+        "schrieb",
+        "auto",
+        "neben",
+        "hast",
+        "bordstein",
+        "immer",
+        "sondern"
+      ],
+      "examples": [
+        {
+          "id": 45180485,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 15:33",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 15:17:  https://www.rheinmetall.com/Rheinmetall%20Group/Systeme%20und%20Produkte/Mobilit%C3%A4t/Ladebordstein/173644/image-thumb__1736...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180485/show/"
+        },
+        {
+          "id": 45180792,
+          "title": "Re: Robustheit bei Überfahren, Kollision und Starkregen",
+          "datetime": "13.05.2025 17:14",
+          "snippet": "jmeister schrieb am 13.05.2025 17:02:  Ein Auto ist etwas schwerer, aber wenn man langsam genug fährt überlebt es der E-Bordstein vielleicht.  \"Vielleicht\"?  Du hältst es also f...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Robustheit-bei-Ueberfahren-Kollision-und-Starkregen/posting-45180792/show/"
+        },
+        {
+          "id": 45180850,
+          "title": "Re: Robustheit bei Überfahren, Kollision und Starkregen",
+          "datetime": "13.05.2025 17:37",
+          "snippet": "jmeister schrieb am 13.05.2025 17:02:  Sind Rheinmetall-Fahrzeuge nicht in erster Linie dafür bekannt in der Werkstatt zu stehen?  Keine Ahnung, ich fahre keine Panzer. Und sagt...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Robustheit-bei-Ueberfahren-Kollision-und-Starkregen/posting-45180850/show/"
+        },
+        {
+          "id": 45182845,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "14.05.2025 13:12",
+          "snippet": "will auch mal posten schrieb am 13.05.2025 16:17:  Davon mal abgesehen: Was genau hast du an der Artikelüberschrift \"erfolgreiches Testjahr\" nicht verstanden?  Was genau hast du...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45182845/show/"
+        },
+        {
+          "id": 45185378,
+          "title": "Re: Schilda & Fördermittel-Mafia",
+          "datetime": "15.05.2025 12:41",
+          "snippet": "Das wollen die \"Stromköpfe\" doch nicht hören ;-) Macht doch deren ganze Ideologie und Phantasie kaputt. Und mit dem Thema Kosten darf man da auch nicht kommen - das fällt doch w...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Schilda-Foerdermittel-Mafia/posting-45185378/show/"
+        }
+      ]
+    },
+    "Wirtschaft_Kosten_und_Skalierung": {
+      "count": 31,
+      "common_terms": [
+        "sind",
+        "rheinmetall",
+        "schrieb",
+        "dazu",
+        "sich",
+        "habe",
+        "hier",
+        "fördermittel",
+        "waffen",
+        "keine",
+        "schilda",
+        "mafia"
+      ],
+      "examples": [
+        {
+          "id": 45180511,
+          "title": "Robustheit bei Überfahren, Kollision und Starkregen",
+          "datetime": "13.05.2025 15:43",
+          "snippet": "Sieh zweite Hälfte des folgenden Videos:  https://www.rheinmetall.com/de/produkte/e-mobilitaet/e-power-loesungen/ladeinfrastruktur/ladebordstein#anchor-video  Da Rheinmetall in ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Robustheit-bei-Ueberfahren-Kollision-und-Starkregen/posting-45180511/show/"
+        },
+        {
+          "id": 45180557,
+          "title": "Vorsicht Kriegsfirma!",
+          "datetime": "13.05.2025 15:56",
+          "snippet": "Rheinmetall ist nen Rüstungskonzern. Die stellen gerne Waffen her, die dafür sorgen, dass Menschen, Tiere und Natur zerstört werden.  Ich würde niemals freiwillig irgendetwas vo...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Vorsicht-Kriegsfirma/posting-45180557/show/"
+        },
+        {
+          "id": 45180762,
+          "title": "Re: Robustheit bei Überfahren, Kollision und Starkregen",
+          "datetime": "13.05.2025 17:02",
+          "snippet": "O/4 schrieb am 13.05.2025 15:43:  Sieh zweite Hälfte des folgenden Videos:  https://www.rheinmetall.com/de/produkte/e-mobilitaet/e-power-loesungen/ladeinfrastruktur/ladebordstei...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Robustheit-bei-Ueberfahren-Kollision-und-Starkregen/posting-45180762/show/"
+        },
+        {
+          "id": 45180810,
+          "title": "Re: Vorsicht Kriegsfirma!",
+          "datetime": "13.05.2025 17:22",
+          "snippet": "WTF_why schrieb am 13.05.2025 15:56:  Jeder Cent, der dadurch erwirtschaftet wird, fließt wieder in Waffen, Krieg und Zerstörung!  Die Firma Rheinmetall finanziert mit ihren Ein...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Vorsicht-Kriegsfirma/posting-45180810/show/"
+        },
+        {
+          "id": 45180870,
+          "title": "Re: Vorsicht Kriegsfirma!",
+          "datetime": "13.05.2025 17:46",
+          "snippet": "WTF_why schrieb am 13.05.2025 15:56:  Rheinmetall ist nen Rüstungskonzern. Die stellen gerne Waffen her, die dafür sorgen, dass Menschen, Tiere und Natur zerstört werden.  Ich w...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Vorsicht-Kriegsfirma/posting-45180870/show/"
+        }
+      ]
+    },
+    "Grundsatzdebatte_EAuto_und_Verkehrswende": {
+      "count": 22,
+      "common_terms": [
+        "sind",
+        "schrieb",
+        "hier",
+        "auto",
+        "geht",
+        "schnee",
+        "sondern",
+        "rheinmetall",
+        "stecker",
+        "sich",
+        "kabel",
+        "also"
+      ],
+      "examples": [
+        {
+          "id": 45180511,
+          "title": "Robustheit bei Überfahren, Kollision und Starkregen",
+          "datetime": "13.05.2025 15:43",
+          "snippet": "Sieh zweite Hälfte des folgenden Videos:  https://www.rheinmetall.com/de/produkte/e-mobilitaet/e-power-loesungen/ladeinfrastruktur/ladebordstein#anchor-video  Da Rheinmetall in ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Robustheit-bei-Ueberfahren-Kollision-und-Starkregen/posting-45180511/show/"
+        },
+        {
+          "id": 45180580,
+          "title": "Re: Sauberkeit und Bequemlichkeit",
+          "datetime": "13.05.2025 16:03",
+          "snippet": "EggerdHubertsen schrieb am 13.05.2025 15:31:  Also die Bequemlichkeit ist natürlich das eine. Einen Stecker im Boden einzustecken ist deutlich unangenehmer als in normaler Höhe....",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Sauberkeit-und-Bequemlichkeit/posting-45180580/show/"
+        },
+        {
+          "id": 45180647,
+          "title": "Re: Sauberkeit und Bequemlichkeit",
+          "datetime": "13.05.2025 16:22",
+          "snippet": "Richtig.  Das Risiko beim Verlassen des Autos an einem Baum oder sonstigen Grünstreifen in eine der unzähligen Hunde-Tretminen zu geraden ist wohl höher als das Risiko sich das ...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Sauberkeit-und-Bequemlichkeit/posting-45180647/show/"
+        },
+        {
+          "id": 45180762,
+          "title": "Re: Robustheit bei Überfahren, Kollision und Starkregen",
+          "datetime": "13.05.2025 17:02",
+          "snippet": "O/4 schrieb am 13.05.2025 15:43:  Sieh zweite Hälfte des folgenden Videos:  https://www.rheinmetall.com/de/produkte/e-mobilitaet/e-power-loesungen/ladeinfrastruktur/ladebordstei...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Robustheit-bei-Ueberfahren-Kollision-und-Starkregen/posting-45180762/show/"
+        },
+        {
+          "id": 45180770,
+          "title": "Re: benötigt keine Poller zur Absicherung, sorgt für freie Sichtachsen und behin",
+          "datetime": "13.05.2025 17:04",
+          "snippet": "Avarion schrieb am 13.05.2025 15:32:  Parkt der Fahrer sein Fahrzeug ordentlich am Gehweg dann ist der Stecker so nahe am Auto das die Leute automatisch Abstand halten.  ... wen...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-benoetigt-keine-Poller-zur-Absicherung-sorgt-fuer-freie-Sichtachsen-und-behindert/posting-45180770/show/"
+        }
+      ]
+    },
+    "Positive_Erfahrungen_und_Pilotprojekt": {
+      "count": 17,
+      "common_terms": [
+        "gute",
+        "idee",
+        "sind",
+        "schrieb",
+        "hier",
+        "gemecker",
+        "keine",
+        "gibt",
+        "rheinmetall",
+        "wieder",
+        "anderen",
+        "deutsch"
+      ],
+      "examples": [
+        {
+          "id": 45180557,
+          "title": "Vorsicht Kriegsfirma!",
+          "datetime": "13.05.2025 15:56",
+          "snippet": "Rheinmetall ist nen Rüstungskonzern. Die stellen gerne Waffen her, die dafür sorgen, dass Menschen, Tiere und Natur zerstört werden.  Ich würde niemals freiwillig irgendetwas vo...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Vorsicht-Kriegsfirma/posting-45180557/show/"
+        },
+        {
+          "id": 45180707,
+          "title": "Endlich mal ne gute Idee",
+          "datetime": "13.05.2025 16:40",
+          "snippet": "Gibt es in anderen Ländern schon lange - schön dass es jetzt hierzulande endlich auch eine Lösung gibt - allen Meckerern zum Trotz....",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Endlich-mal-ne-gute-Idee/posting-45180707/show/"
+        },
+        {
+          "id": 45180870,
+          "title": "Re: Vorsicht Kriegsfirma!",
+          "datetime": "13.05.2025 17:46",
+          "snippet": "WTF_why schrieb am 13.05.2025 15:56:  Rheinmetall ist nen Rüstungskonzern. Die stellen gerne Waffen her, die dafür sorgen, dass Menschen, Tiere und Natur zerstört werden.  Ich w...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Vorsicht-Kriegsfirma/posting-45180870/show/"
+        },
+        {
+          "id": 45180937,
+          "title": "Re: Vorsicht Kriegsfirma!",
+          "datetime": "13.05.2025 18:09",
+          "snippet": "melonenmonster schrieb am 13.05.2025 17:03:  „Wenn du (den) Frieden willst, bereite (den) Krieg vor.“  Yep. Das war auch der Grund warum bis in die jüngere Zeit die NATO funktio...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Vorsicht-Kriegsfirma/posting-45180937/show/"
+        },
+        {
+          "id": 45181414,
+          "title": "Re: Alternativ dazu: Ladenschluss in Straßenlaterne oder Poller",
+          "datetime": "13.05.2025 21:49",
+          "snippet": "Das mit den Laternen funktioniert bei uns in Wohngebieten nur nicht da die Laternen auf der, von der Straße aus gesehen, anderen Seite des Bürgersteigs sind und man das Kabel üb...",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Alternativ-dazu-Ladenschluss-in-Strassenlaterne-oder-Poller/posting-45181414/show/"
+        }
+      ]
+    },
+    "Sonstiges": {
+      "count": 3,
+      "common_terms": [
+        "hast",
+        "ohne",
+        "kundennummer",
+        "schwer",
+        "kontakt",
+        "aufzunehmen",
+        "selbst",
+        "kommst",
+        "loggen",
+        "sich",
+        "steht",
+        "alles"
+      ],
+      "examples": [
+        {
+          "id": 45181458,
+          "title": "Du hast da eine Kundennummer?",
+          "datetime": "13.05.2025 22:16",
+          "snippet": "Du hast da eine Kundennummer?   Ohne könnte es schwer werden, da Kontakt aufzunehmen. Selbst mit, kommst Du ja nur noch \"Loggen Sie sich ein, das steht dann alles da\", mitgeteilt.",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Der-Preis-wird-geflissentlich-verschwiegen/posting-45181458/show/"
+        },
+        {
+          "id": 45182496,
+          "title": "No worries",
+          "datetime": "14.05.2025 11:18",
+          "snippet": "Aber ich sag's mal so, anzunehmen so was koennte entwickelt werden ohne auf die Betriebsumgebung zu achten kommt schon etwas .... amerikanisch an.  :-)",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Wie-wird-das-Ding-eigentlich-gegen-Regen-gesichert/posting-45182496/show/"
+        },
+        {
+          "id": 45182673,
+          "title": "Du hast doch sicher eine Quelle dafuer?",
+          "datetime": "14.05.2025 12:13",
+          "snippet": "Weil ohne glaube ich dir nicht.",
+          "url": "https://www.heise.de/forum/heise-online/Kommentare/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie/Re-Was-fehlt/posting-45182673/show/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "comment_count": 220,
+  "author_count": 85,
+  "top_authors": [
+    {
+      "author": "peter-pano",
+      "posts": 25,
+      "positive": 1,
+      "negative": 5,
+      "neutral": 19,
+      "avg_score": -0.25,
+      "avg_rating": -48.7,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "Ronaldinho",
+      "posts": 15,
+      "positive": 4,
+      "negative": 3,
+      "neutral": 8,
+      "avg_score": 0.25,
+      "avg_rating": 56.7,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "Farnsworth",
+      "posts": 13,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 11,
+      "avg_score": -0.26,
+      "avg_rating": 32.5,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "H005",
+      "posts": 9,
+      "positive": 0,
+      "negative": 4,
+      "neutral": 5,
+      "avg_score": -0.37,
+      "avg_rating": 35.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "nille02",
+      "posts": 8,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 6,
+      "avg_score": -0.06,
+      "avg_rating": 35.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "senf.dazu",
+      "posts": 7,
+      "positive": 1,
+      "negative": 3,
+      "neutral": 3,
+      "avg_score": -0.73,
+      "avg_rating": -37.5,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "P-Trettin",
+      "posts": 6,
+      "positive": 0,
+      "negative": 3,
+      "neutral": 3,
+      "avg_score": -1.36,
+      "avg_rating": null,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "23",
+      "posts": 5,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 4,
+      "avg_score": 0.14,
+      "avg_rating": 55.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "follow.me",
+      "posts": 5,
+      "positive": 0,
+      "negative": 3,
+      "neutral": 2,
+      "avg_score": -2.42,
+      "avg_rating": 30.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "Hasi1166",
+      "posts": 5,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 3,
+      "avg_score": -0.9,
+      "avg_rating": -45.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "hh66",
+      "posts": 5,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 4,
+      "avg_score": 0.01,
+      "avg_rating": 20.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "lost continent",
+      "posts": 5,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 3,
+      "avg_score": -0.63,
+      "avg_rating": -30.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "McByte",
+      "posts": 5,
+      "positive": 0,
+      "negative": 3,
+      "neutral": 2,
+      "avg_score": -2.07,
+      "avg_rating": -20.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "TheozScience",
+      "posts": 5,
+      "positive": 1,
+      "negative": 4,
+      "neutral": 0,
+      "avg_score": -0.85,
+      "avg_rating": null,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "atrider",
+      "posts": 4,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 3,
+      "avg_score": -0.19,
+      "avg_rating": null,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "Astronom",
+      "posts": 3,
+      "positive": 0,
+      "negative": 2,
+      "neutral": 1,
+      "avg_score": -0.82,
+      "avg_rating": null,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "ErdenAdmin",
+      "posts": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": -0.33,
+      "avg_rating": 0.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "isegrim9",
+      "posts": 3,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 2,
+      "avg_score": -0.37,
+      "avg_rating": -20.0,
+      "overall_tenor": "eher negativ"
+    },
+    {
+      "author": "Muschelesser",
+      "posts": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": -0.23,
+      "avg_rating": null,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "Stierchen0815",
+      "posts": 3,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 2,
+      "avg_score": -0.28,
+      "avg_rating": null,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "basatan",
+      "posts": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.42,
+      "avg_rating": null,
+      "overall_tenor": "eher positiv"
+    },
+    {
+      "author": "Devchannel420",
+      "posts": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0,
+      "avg_score": 0.12,
+      "avg_rating": 73.0,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "drjh",
+      "posts": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1,
+      "avg_score": -0.08,
+      "avg_rating": null,
+      "overall_tenor": "gemischt/neutral"
+    },
+    {
+      "author": "E_G_M_U",
+      "posts": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.42,
+      "avg_rating": null,
+      "overall_tenor": "eher positiv"
+    },
+    {
+      "author": "Falcon",
+      "posts": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1,
+      "avg_score": -0.62,
+      "avg_rating": -35.0,
+      "overall_tenor": "eher negativ"
+    }
+  ],
+  "distribution_by_posts": {
+    "1": 47,
+    "2": 18,
+    "3": 5,
+    "4": 1,
+    "5": 7,
+    "6": 1,
+    "7": 1,
+    "8": 1,
+    "9": 1,
+    "13": 1,
+    "15": 1,
+    "25": 1
+  },
+  "tenor_distribution_authors": {
+    "gemischt/neutral": 25,
+    "eher negativ": 48,
+    "eher positiv": 12
+  },
+  "tenor_distribution_posts": {
+    "neutral": 132,
+    "negativ": 70,
+    "positiv": 18
+  }
+}

@@ -1,0 +1,774 @@
+{
+  "threads": [
+    "tanke_2026",
+    "koeln_2023",
+    "serie_2025"
+  ],
+  "comment_count_total": 758,
+  "author_count_total": 284,
+  "authors_in_multiple_threads": 20,
+  "authors_in_all_three_threads": 2,
+  "top_authors_total": [
+    {
+      "author": "unbekannter Benutzer",
+      "posts_total": 33,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 27,
+        "serie_2025": 6
+      },
+      "positive": 5,
+      "neutral": 20,
+      "negative": 8,
+      "avg_rating": 13.5
+    },
+    {
+      "author": "bitkobold",
+      "posts_total": 26,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 26
+      },
+      "positive": 1,
+      "neutral": 12,
+      "negative": 13,
+      "avg_rating": -14.3
+    },
+    {
+      "author": "peter-pano",
+      "posts_total": 25,
+      "thread_count": 1,
+      "by_thread": {
+        "tanke_2026": 25
+      },
+      "positive": 1,
+      "neutral": 19,
+      "negative": 5,
+      "avg_rating": -48.7
+    },
+    {
+      "author": "23",
+      "posts_total": 19,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 5,
+        "koeln_2023": 14
+      },
+      "positive": 3,
+      "neutral": 11,
+      "negative": 5,
+      "avg_rating": 34.3
+    },
+    {
+      "author": "Ronaldinho",
+      "posts_total": 15,
+      "thread_count": 1,
+      "by_thread": {
+        "tanke_2026": 15
+      },
+      "positive": 4,
+      "neutral": 8,
+      "negative": 3,
+      "avg_rating": 56.7
+    },
+    {
+      "author": "Farnsworth",
+      "posts_total": 14,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 13,
+        "koeln_2023": 1
+      },
+      "positive": 1,
+      "neutral": 11,
+      "negative": 2,
+      "avg_rating": 32.5
+    },
+    {
+      "author": "Deep Thinking",
+      "posts_total": 14,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 14
+      },
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1,
+      "avg_rating": null
+    },
+    {
+      "author": "aLDo",
+      "posts_total": 11,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 11
+      },
+      "positive": 0,
+      "neutral": 4,
+      "negative": 7,
+      "avg_rating": null
+    },
+    {
+      "author": "Dr. Goebel",
+      "posts_total": 9,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 9
+      },
+      "positive": 0,
+      "neutral": 5,
+      "negative": 4,
+      "avg_rating": 10.0
+    },
+    {
+      "author": "H005",
+      "posts_total": 9,
+      "thread_count": 1,
+      "by_thread": {
+        "tanke_2026": 9
+      },
+      "positive": 0,
+      "neutral": 5,
+      "negative": 4,
+      "avg_rating": 35.0
+    },
+    {
+      "author": "Wo ist der Bus...",
+      "posts_total": 8,
+      "thread_count": 3,
+      "by_thread": {
+        "tanke_2026": 2,
+        "koeln_2023": 4,
+        "serie_2025": 2
+      },
+      "positive": 1,
+      "neutral": 5,
+      "negative": 2,
+      "avg_rating": 20.0
+    },
+    {
+      "author": "Christian Stieber",
+      "posts_total": 8,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 5,
+        "serie_2025": 3
+      },
+      "positive": 5,
+      "neutral": 3,
+      "negative": 0,
+      "avg_rating": 42.5
+    },
+    {
+      "author": "Gottwalt Thiersch",
+      "posts_total": 8,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 8
+      },
+      "positive": 1,
+      "neutral": 3,
+      "negative": 4,
+      "avg_rating": null
+    },
+    {
+      "author": "nille02",
+      "posts_total": 8,
+      "thread_count": 1,
+      "by_thread": {
+        "tanke_2026": 8
+      },
+      "positive": 1,
+      "neutral": 6,
+      "negative": 1,
+      "avg_rating": 35.0
+    },
+    {
+      "author": "Kermit00",
+      "posts_total": 7,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 7
+      },
+      "positive": 0,
+      "neutral": 3,
+      "negative": 4,
+      "avg_rating": -16.0
+    },
+    {
+      "author": "Lyra",
+      "posts_total": 7,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 7
+      },
+      "positive": 2,
+      "neutral": 3,
+      "negative": 2,
+      "avg_rating": 34.0
+    },
+    {
+      "author": "senf.dazu",
+      "posts_total": 7,
+      "thread_count": 1,
+      "by_thread": {
+        "tanke_2026": 7
+      },
+      "positive": 1,
+      "neutral": 3,
+      "negative": 3,
+      "avg_rating": -37.5
+    },
+    {
+      "author": "iMil",
+      "posts_total": 6,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 1,
+        "serie_2025": 5
+      },
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0,
+      "avg_rating": 56.7
+    },
+    {
+      "author": "McByte",
+      "posts_total": 6,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 5,
+        "koeln_2023": 1
+      },
+      "positive": 0,
+      "neutral": 2,
+      "negative": 4,
+      "avg_rating": -20.0
+    },
+    {
+      "author": "TheozScience",
+      "posts_total": 6,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 5,
+        "serie_2025": 1
+      },
+      "positive": 1,
+      "neutral": 1,
+      "negative": 4,
+      "avg_rating": null
+    },
+    {
+      "author": "will auch mal posten",
+      "posts_total": 6,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 2,
+        "serie_2025": 4
+      },
+      "positive": 0,
+      "neutral": 2,
+      "negative": 4,
+      "avg_rating": -72.3
+    },
+    {
+      "author": "baller",
+      "posts_total": 6,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 6
+      },
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1,
+      "avg_rating": null
+    },
+    {
+      "author": "grommel",
+      "posts_total": 6,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 6
+      },
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1,
+      "avg_rating": 50.0
+    },
+    {
+      "author": "hbh",
+      "posts_total": 6,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 6
+      },
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0,
+      "avg_rating": null
+    },
+    {
+      "author": "issanori",
+      "posts_total": 6,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 6
+      },
+      "positive": 0,
+      "neutral": 4,
+      "negative": 2,
+      "avg_rating": -10.0
+    },
+    {
+      "author": "MKoenig",
+      "posts_total": 6,
+      "thread_count": 1,
+      "by_thread": {
+        "serie_2025": 6
+      },
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0,
+      "avg_rating": 75.0
+    },
+    {
+      "author": "Nick_Name666",
+      "posts_total": 6,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 6
+      },
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0,
+      "avg_rating": 30.0
+    },
+    {
+      "author": "O/4",
+      "posts_total": 6,
+      "thread_count": 1,
+      "by_thread": {
+        "serie_2025": 6
+      },
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1,
+      "avg_rating": 88.0
+    },
+    {
+      "author": "P-Trettin",
+      "posts_total": 6,
+      "thread_count": 1,
+      "by_thread": {
+        "tanke_2026": 6
+      },
+      "positive": 0,
+      "neutral": 1,
+      "negative": 5,
+      "avg_rating": null
+    },
+    {
+      "author": "RvdtG",
+      "posts_total": 5,
+      "thread_count": 3,
+      "by_thread": {
+        "tanke_2026": 2,
+        "koeln_2023": 1,
+        "serie_2025": 2
+      },
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0,
+      "avg_rating": 85.0
+    },
+    {
+      "author": "Arnd Jaekel, ArndJaekel@web.de",
+      "posts_total": 5,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 5
+      },
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1,
+      "avg_rating": 40.0
+    },
+    {
+      "author": "dat70",
+      "posts_total": 5,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 5
+      },
+      "positive": 0,
+      "neutral": 1,
+      "negative": 4,
+      "avg_rating": -39.5
+    },
+    {
+      "author": "der Ente",
+      "posts_total": 5,
+      "thread_count": 1,
+      "by_thread": {
+        "serie_2025": 5
+      },
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1,
+      "avg_rating": 0.0
+    },
+    {
+      "author": "firedancer",
+      "posts_total": 5,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 5
+      },
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1,
+      "avg_rating": 56.0
+    },
+    {
+      "author": "follow.me",
+      "posts_total": 5,
+      "thread_count": 1,
+      "by_thread": {
+        "tanke_2026": 5
+      },
+      "positive": 0,
+      "neutral": 2,
+      "negative": 3,
+      "avg_rating": 30.0
+    },
+    {
+      "author": "Gothfather",
+      "posts_total": 5,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 5
+      },
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1,
+      "avg_rating": null
+    },
+    {
+      "author": "Hasi1166",
+      "posts_total": 5,
+      "thread_count": 1,
+      "by_thread": {
+        "tanke_2026": 5
+      },
+      "positive": 0,
+      "neutral": 3,
+      "negative": 2,
+      "avg_rating": -45.0
+    },
+    {
+      "author": "hh66",
+      "posts_total": 5,
+      "thread_count": 1,
+      "by_thread": {
+        "tanke_2026": 5
+      },
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0,
+      "avg_rating": 20.0
+    },
+    {
+      "author": "lost continent",
+      "posts_total": 5,
+      "thread_count": 1,
+      "by_thread": {
+        "tanke_2026": 5
+      },
+      "positive": 0,
+      "neutral": 3,
+      "negative": 2,
+      "avg_rating": -30.0
+    },
+    {
+      "author": "mcezar2",
+      "posts_total": 5,
+      "thread_count": 1,
+      "by_thread": {
+        "koeln_2023": 5
+      },
+      "positive": 1,
+      "neutral": 1,
+      "negative": 3,
+      "avg_rating": -8.7
+    }
+  ],
+  "top_cross_thread_authors": [
+    {
+      "author": "unbekannter Benutzer",
+      "posts_total": 33,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 27,
+        "serie_2025": 6
+      },
+      "positive": 5,
+      "neutral": 20,
+      "negative": 8,
+      "avg_rating": 13.5
+    },
+    {
+      "author": "23",
+      "posts_total": 19,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 5,
+        "koeln_2023": 14
+      },
+      "positive": 3,
+      "neutral": 11,
+      "negative": 5,
+      "avg_rating": 34.3
+    },
+    {
+      "author": "Farnsworth",
+      "posts_total": 14,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 13,
+        "koeln_2023": 1
+      },
+      "positive": 1,
+      "neutral": 11,
+      "negative": 2,
+      "avg_rating": 32.5
+    },
+    {
+      "author": "Wo ist der Bus...",
+      "posts_total": 8,
+      "thread_count": 3,
+      "by_thread": {
+        "tanke_2026": 2,
+        "koeln_2023": 4,
+        "serie_2025": 2
+      },
+      "positive": 1,
+      "neutral": 5,
+      "negative": 2,
+      "avg_rating": 20.0
+    },
+    {
+      "author": "Christian Stieber",
+      "posts_total": 8,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 5,
+        "serie_2025": 3
+      },
+      "positive": 5,
+      "neutral": 3,
+      "negative": 0,
+      "avg_rating": 42.5
+    },
+    {
+      "author": "iMil",
+      "posts_total": 6,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 1,
+        "serie_2025": 5
+      },
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0,
+      "avg_rating": 56.7
+    },
+    {
+      "author": "McByte",
+      "posts_total": 6,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 5,
+        "koeln_2023": 1
+      },
+      "positive": 0,
+      "neutral": 2,
+      "negative": 4,
+      "avg_rating": -20.0
+    },
+    {
+      "author": "TheozScience",
+      "posts_total": 6,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 5,
+        "serie_2025": 1
+      },
+      "positive": 1,
+      "neutral": 1,
+      "negative": 4,
+      "avg_rating": null
+    },
+    {
+      "author": "will auch mal posten",
+      "posts_total": 6,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 2,
+        "serie_2025": 4
+      },
+      "positive": 0,
+      "neutral": 2,
+      "negative": 4,
+      "avg_rating": -72.3
+    },
+    {
+      "author": "RvdtG",
+      "posts_total": 5,
+      "thread_count": 3,
+      "by_thread": {
+        "tanke_2026": 2,
+        "koeln_2023": 1,
+        "serie_2025": 2
+      },
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0,
+      "avg_rating": 85.0
+    },
+    {
+      "author": "drjh",
+      "posts_total": 4,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 2,
+        "koeln_2023": 2
+      },
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1,
+      "avg_rating": 20.0
+    },
+    {
+      "author": "Bernd Paysan",
+      "posts_total": 3,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 1,
+        "serie_2025": 2
+      },
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1,
+      "avg_rating": null
+    },
+    {
+      "author": "letztermo",
+      "posts_total": 3,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 2,
+        "koeln_2023": 1
+      },
+      "positive": 1,
+      "neutral": 1,
+      "negative": 1,
+      "avg_rating": 48.0
+    },
+    {
+      "author": "nur-so",
+      "posts_total": 3,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 2,
+        "koeln_2023": 1
+      },
+      "positive": 0,
+      "neutral": 1,
+      "negative": 2,
+      "avg_rating": -83.0
+    },
+    {
+      "author": "robinx99",
+      "posts_total": 3,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 2,
+        "serie_2025": 1
+      },
+      "positive": 1,
+      "neutral": 1,
+      "negative": 1,
+      "avg_rating": null
+    },
+    {
+      "author": "Rolf Keller",
+      "posts_total": 3,
+      "thread_count": 2,
+      "by_thread": {
+        "tanke_2026": 1,
+        "koeln_2023": 2
+      },
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0,
+      "avg_rating": null
+    },
+    {
+      "author": "Romiman",
+      "posts_total": 3,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 2,
+        "serie_2025": 1
+      },
+      "positive": 0,
+      "neutral": 1,
+      "negative": 2,
+      "avg_rating": null
+    },
+    {
+      "author": "Timothy_Truckle",
+      "posts_total": 3,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 2,
+        "serie_2025": 1
+      },
+      "positive": 0,
+      "neutral": 1,
+      "negative": 2,
+      "avg_rating": null
+    },
+    {
+      "author": "Haenk",
+      "posts_total": 2,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 1,
+        "serie_2025": 1
+      },
+      "positive": 0,
+      "neutral": 0,
+      "negative": 2,
+      "avg_rating": 80.0
+    },
+    {
+      "author": "Kreuzfahrer",
+      "posts_total": 2,
+      "thread_count": 2,
+      "by_thread": {
+        "koeln_2023": 1,
+        "serie_2025": 1
+      },
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0,
+      "avg_rating": 10.0
+    }
+  ],
+  "thread_distribution": {
+    "2": 18,
+    "1": 264,
+    "3": 2
+  }
+}
