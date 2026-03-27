@@ -1,17 +1,17 @@
-# Gesamtstatistik: Kommentatoren ueber alle drei Heise-Threads
+﻿# Gesamtstatistik: Kommentatoren Ã¼ber alle drei Heise-Threads
 
-Ausgewertet wurden 758 Beitraege aus drei Threads von insgesamt 284 eindeutigen Kommentatoren.
+Ausgewertet wurden 758 BeitrÃ¤ge aus drei Threads von insgesamt 284 eindeutigen Kommentatoren.
 
 ## Kerndaten
 
-- Beitraege insgesamt: 758
+- BeitrÃ¤ge insgesamt: 758
 - Eindeutige Kommentatoren insgesamt: 284
 - Kommentatoren in mindestens zwei Threads: 20
 - Kommentatoren in allen drei Threads: 2
 
-## Top-Kommentatoren ueber alle drei Threads
+## Top-Kommentatoren Ã¼ber alle drei Threads
 
-| Rang | Kommentator | Beitraege gesamt | Threads | TankE 2026 | Koeln 2023 | Serie 2025 | positiv | neutral | negativ | Avg. Bewertung |
+| Rang | Kommentator | BeitrÃ¤ge gesamt | Threads | TankE 2026 | KÃ¶ln 2023 | Serie 2025 | positiv | neutral | negativ | Avg. Bewertung |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | unbekannter Benutzer | 33 | 2 | 0 | 27 | 6 | 5 | 20 | 8 | 13,5 |
 | 2 | bitkobold | 26 | 1 | 0 | 26 | 0 | 1 | 12 | 13 | -14,3 |
@@ -41,7 +41,7 @@ Ausgewertet wurden 758 Beitraege aus drei Threads von insgesamt 284 eindeutigen 
 
 ## Kommentatoren in mehreren Threads
 
-| Rang | Kommentator | Beitraege gesamt | Threads | TankE 2026 | Koeln 2023 | Serie 2025 |
+| Rang | Kommentator | BeitrÃ¤ge gesamt | Threads | TankE 2026 | KÃ¶ln 2023 | Serie 2025 |
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
 | 1 | unbekannter Benutzer | 33 | 2 | 0 | 27 | 6 |
 | 2 | 23 | 19 | 2 | 5 | 14 | 0 |
@@ -68,4 +68,4 @@ Ausgewertet wurden 758 Beitraege aus drei Threads von insgesamt 284 eindeutigen 
 
 - Die Zuordnung erfolgt nach exakt sichtbarem Foren-Namen im jeweiligen Thread.
 - Namensvarianten oder unterschiedliche Konten wurden nicht zusammengefuehrt.
-- Positive, neutrale und negative Beitraege basieren wie zuvor auf einer heuristischen Einordnung.
+- Positive, neutrale und negative BeitrÃ¤ge basieren wie zuvor auf einer heuristischen Einordnung.

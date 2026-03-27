@@ -1,26 +1,26 @@
-# Heise Ladebordstein Analyse
+﻿# Heise Ladebordstein Analyse
 
 Dieses Repository enthaelt eine lokale Auswertung von drei Heise-Forenthreads zum Thema Ladebordsteine.
 
 ## Inhalt
 
 - `heise_forum_curbcharger_analyse.ps1`
-- Vollberichte und geglaettete Endfassungen fuer drei Threads
+- Vollberichte und geglaettete Endfassungen fÃ¼r drei Threads
 - JSON-Auswertungen pro Thread
-- eine Gesamtstatistik ueber alle drei Threads
-- eine Vergleichsdatei `Koeln_vs_TankE_vs_Serie`
+- eine Gesamtstatistik Ã¼ber alle drei Threads
+- eine Vergleichsdatei `KÃ¶ln_vs_TankE_vs_Serie`
 
 Die grossen HTML-Caches, virtuelle Umgebungen und sonstige Laufzeitdateien sind bewusst nicht versioniert.
 
 ## PowerShell-Skript
 
-`heise_forum_curbcharger_analyse.ps1` ist das zentrale Skript fuer den gesamten Workflow.
+`heise_forum_curbcharger_analyse.ps1` ist das zentrale Skript fÃ¼r den gesamten Workflow.
 
 Es macht in einem Lauf:
 
 1. Heise-Forenseiten eines Threads abrufen
 2. alle Root-Threads finden
-3. fuer jeden Root-Thread die vollstaendige Thread-Ansicht laden
+3. fÃ¼r jeden Root-Thread die vollstaendige Thread-Ansicht laden
 4. alle Posting-URLs deduplizieren
 5. alle Posting-Seiten cachen
 6. Kommentare lokal parsen und thematisch klassifizieren
@@ -35,7 +35,7 @@ Das Skript arbeitet threadbezogen und schreibt pro Forum getrennte Dateien mit D
 - `-SkipFetch`
   Nutzt nur vorhandene lokale Caches und rechnet die Auswertung neu
 - `-OnlyAuthors`
-  Ueberspringt das Nachladen einzelner Posting-Seiten und ist nur fuer Sonderfaelle gedacht
+  Ã¼berspringt das Nachladen einzelner Posting-Seiten und ist nur fÃ¼r Sonderfaelle gedacht
 - `-WorkDir`
   Optionales Arbeitsverzeichnis
 
@@ -67,10 +67,10 @@ Weitere Gesamtdateien:
 
 - `2026-03-27_gesamtstatistik_drei_threads.md`
 - `2026-03-27_gesamtstatistik_drei_threads.json`
-- `2026-03-27_Koeln_vs_TankE_vs_Serie.md`
+- `2026-03-27_KÃ¶ln_vs_TankE_vs_Serie.md`
 
 ## Hinweise
 
 - Die Tenor-Einordnung ist heuristisch und keine manuelle Vollkodierung.
-- Die Zusammenfuehrung von Autoren erfolgt nur ueber den sichtbaren Heise-Forennamen.
-- HTML-Caches sind fuer die Reproduzierbarkeit hilfreich, werden hier aber nicht ins Repository eingecheckt.
+- Die Zusammenfuehrung von Autoren erfolgt nur Ã¼ber den sichtbaren Heise-Forennamen.
+- HTML-Caches sind fÃ¼r die Reproduzierbarkeit hilfreich, werden hier aber nicht ins Repository eingecheckt.
